@@ -7,7 +7,6 @@ f = open('dart-publications.json')
 
 publications = json.load(f)
 
-
 publications = sorted(publications, key=lambda x:x['issued']['date-parts'][0][0], reverse=True)
 
 current_year = '3000'
@@ -33,13 +32,13 @@ searching for a given publication's title.
 To cite DART in your publication, please use this citation updating the DART
 version and year as appropriate:
 
-> The Data Assimilation Research Testbed (Version X.Y.Z) [Software]. (2024). Boulder, Colorado: NSF NCAR/CISL/DAReS. [http://doi.org/10.5065/D6WQ0202](http://doi.org/10.5065/D6WQ0202)  
+> The Data Assimilation Research Testbed (Version X.Y.Z) [Software]. (2024). Boulder, Colorado: NSF NCAR/CISL/DAReS. [http://doi.org/10.5065/D6WQ0202](http://doi.org/10.5065/D6WQ0202)
 
-The seminal reference is:   
+The seminal reference is:
 
 **Anderson, J. L., T. Hoar, K. Raeder, H. Liu, N. Collins, R. Torn
-and A. Arellano**, 2009  
-The Data Assimilation Research Testbed: A Community Facility.  
+and A. Arellano**, 2009
+The Data Assimilation Research Testbed: A Community Facility.
 *Bulletin of the American Meteorological Society*, **90**, 1283-1296,
 [doi:10.1175/2009BAMS2618.1](http://dx.doi.org/10.1175/2009BAMS2618.1)
 
@@ -60,7 +59,7 @@ article_string = """
 chapter_string = """
 ![](/images/pin4.gif) **{authors}**, {publication_year}  
     {title},  
-    {book}.  
+    *{book}*.  
     {editors}, {publisher}, ISBN: {isbn}
 """
 
@@ -80,7 +79,7 @@ for publication in publications:
         page_string += year_header.format(current_year = current_year)
 
     for iauthor, this_author in enumerate(publication['author']):
-        
+
         initials = ''
         first_middle = this_author['given'].split(' ')
         for name in first_middle:
@@ -96,7 +95,7 @@ for publication in publications:
     if publication['type'] == 'article-journal':
 
         journal = publication['container-title']
-        
+
         try:
             volume = ' **' + publication['volume']+'**, '
         except:
@@ -105,9 +104,13 @@ for publication in publications:
             page = publication['page']+', '
         except:
             page = ' '
-        
-        doi = 'doi:' + publication['DOI']
-        url = 'https://doi.org/' + doi
+        try:
+            doi = 'doi:' + publication['DOI']
+            url = 'https://doi.org/' + doi
+        except:
+            print(title)
+            doi = ' '
+            url = ' '
 
         page_string += article_string.format(authors=authors, publication_year=publication_year, title=title, journal=journal, volume=volume, page=page, doi=doi, url=url)
 
@@ -128,7 +131,7 @@ for publication in publications:
                 editors += ' & ' + initials + ' ' + this_editor['family']
             else:
                 editors += ', ' + initials + ' ' + this_editor['family']
-        
+
         page_string += chapter_string.format(authors=authors, publication_year=publication_year, title=title, book=book, editors=editors, publisher=publisher, isbn=isbn)
 
 page_string += """
