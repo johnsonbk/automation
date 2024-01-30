@@ -52,13 +52,13 @@ year_header = """
 
 article_string = """
 ![](/images/pin4.gif) **{authors}**, {publication_year}  
-    {title}.  
+    {title}  
     *{journal}*,{volume}{page}[{doi}]({url})
 """
 
 chapter_string = """
 ![](/images/pin4.gif) **{authors}**, {publication_year}  
-    {title},  
+    {title}  
     *{book}*.  
     {editors}, {publisher}, ISBN: {isbn}
 """
@@ -94,6 +94,9 @@ for publication in publications:
 
     if publication['type'] == 'article-journal':
 
+        if title[-1] != '?' and title[-1] != '.':
+            title += '.'            
+
         journal = publication['container-title']
 
         try:
@@ -115,6 +118,9 @@ for publication in publications:
         page_string += article_string.format(authors=authors, publication_year=publication_year, title=title, journal=journal, volume=volume, page=page, doi=doi, url=url)
 
     elif publication['type'] == 'chapter':
+
+        if title[-1] != '?' and title[-1] != '.':
+            title += ','
 
         book = publication['container-title']
         publisher = publication['publisher']
