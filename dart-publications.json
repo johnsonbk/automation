@@ -17652,5 +17652,3948 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/5N4VWD6K",
+		"type": "chapter",
+		"collection-number": "Volume 28",
+		"collection-title": "Advances in Geosciences",
+		"container-title": "Advances in Geosciences",
+		"ISBN": "978-981-4405-67-6",
+		"note": "DOI: 10.1142/9789814405683_0002",
+		"number-of-volumes": "4",
+		"page": "15-28",
+		"publisher": "World Scientific Publishing Company",
+		"source": "worldscientific.com (Atypon)",
+		"title": "Real-Time Tropical Cyclone Prediction using COAMPS-TC",
+		"URL": "https://www.worldscientific.com/doi/abs/10.1142/9789814405683_0002",
+		"volume": "Volume 28",
+		"author": [
+			{
+				"family": "Doyle",
+				"given": "J. D."
+			},
+			{
+				"family": "Jin",
+				"given": "Y."
+			},
+			{
+				"family": "Hodur",
+				"given": "R. M."
+			},
+			{
+				"family": "Chen",
+				"given": "S."
+			},
+			{
+				"family": "Jin",
+				"given": "H."
+			},
+			{
+				"family": "Moskaitis",
+				"given": "J."
+			},
+			{
+				"family": "Reinecke",
+				"given": "A."
+			},
+			{
+				"family": "Black",
+				"given": "P."
+			},
+			{
+				"family": "Cummings",
+				"given": "J."
+			},
+			{
+				"family": "Hendricks",
+				"given": "E."
+			},
+			{
+				"family": "Holt",
+				"given": "T."
+			},
+			{
+				"family": "Liou",
+				"given": "C.-S."
+			},
+			{
+				"family": "Peng",
+				"given": "M."
+			},
+			{
+				"family": "Reynolds",
+				"given": "C."
+			},
+			{
+				"family": "Sashegyi",
+				"given": "K."
+			},
+			{
+				"family": "Schmidt",
+				"given": "J."
+			},
+			{
+				"family": "Wang",
+				"given": "S."
+			}
+		],
+		"editor": [
+			{
+				"family": "Wu",
+				"given": "Chun-Chieh"
+			},
+			{
+				"family": "Gan",
+				"given": "Jianping"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					4,
+					24
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/F8LICE4E",
+		"type": "article-journal",
+		"abstract": "Abstract Convective-scale models used in NWP nowadays include detailed realistic parameterization for the representation of cloud and precipitation processes. Yet they still lack advanced data assimilation schemes able to efficiently use observations to initialize hydrometeor fields. This challenging task may benefit from a better understanding of the statistical structure of background errors in precipitating areas for both traditional and hydrometeor variables, which is the goal of this study. A special binning has been devised to compute separate background error covariance matrices for precipitating and nonprecipitating areas. This binning is based on bidimensional geographical masks defined by the vertical averaged rain content of the background error perturbations. The sample for computing the covariances is taken from an ensemble of short range forecasts run at 3-km resolution for the prediction of two specific cases of convective storms over the United States. The covariance matrices and associated diagnostics are built on the control variable transform formulation typical of variational data assimilation. The comparison especially highlights the strong coupling of specific humidity, cloud, and rain content with divergence. Shorter horizontal correlations have been obtained in precipitating areas. Vertical correlations mostly reflect the cloud vertical extension due to the convective processes. The statistics for hydrometeor variables show physically meaningful autocovariances and statistical couplings with other variables. Issues for data assimilation of radar reflectivity or more generally of observations linked to cloud and rain content with this kind of background error matrix formulation are thereon briefly discussed.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/2011MWR3632.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "9",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "2994-3015",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Heterogeneous Convective-Scale Background Error Covariances with the Inclusion of Hydrometeor Variables",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/139/9/2011mwr3632.1.xml",
+		"volume": "139",
+		"author": [
+			{
+				"family": "Michel",
+				"given": "Yann"
+			},
+			{
+				"family": "Auligné",
+				"given": "Thomas"
+			},
+			{
+				"family": "Montmerle",
+				"given": "Thibaut"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/KVEJ9YG7",
+		"type": "article-journal",
+		"abstract": "Abstract An ensemble-based data assimilation system using the Weather Research and Forecasting Model (WRF) has been used to initialize forecasts of prolific severe weather events from springs 2007 to 2009. These experiments build on previous work that has shown the ability of ensemble Kalman filter (EnKF) data assimilation to produce realistic mesoscale features, such as drylines and convectively driven cold pools, which often play an important role in future convective development. For each event in this study, severe weather parameters are calculated from an experimental ensemble forecast started from EnKF analyses, and then compared to a control ensemble forecast in which no ensemble-based data assimilation is performed. Root-mean-square errors for surface observations averaged across all events are generally smaller for the experimental ensemble over the 0–6-h forecast period. At model grid points nearest to tornado reports, the ensemble-mean significant tornado parameter (STP) and the probability that STP > 1 are often greater in the experimental 0–6-h ensemble forecasts than in the control forecasts. Likewise, the probability of mesoscale convective system (MCS) maintenance probability (MMP) is often greater with the experimental ensemble at model grid points nearest to wind reports. Severe weather forecasts can be sharpened by coupling the respective severe weather parameter with the probability of measurable rainfall at model grid points. The differences between the two ensembles are found to be significant at the 95% level, suggesting that even a short period of ensemble data assimilation can yield improved forecast guidance for severe weather events.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-11-00106.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "5",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "1539-1557",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Application of a WRF Mesoscale Data Assimilation System to Springtime Severe Weather Events 2007–09",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/140/5/mwr-d-11-00106.1.xml",
+		"volume": "140",
+		"author": [
+			{
+				"family": "Wheatley",
+				"given": "Dustan M."
+			},
+			{
+				"family": "Stensrud",
+				"given": "David J."
+			},
+			{
+				"family": "Dowell",
+				"given": "David C."
+			},
+			{
+				"family": "Yussouf",
+				"given": "Nusrat"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					5,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/XA2SPW97",
+		"type": "article-journal",
+		"abstract": "Abstract One satellite data product that has received great interest in the numerical weather prediction community is the temperature and mixing ratio profiles derived from the Atmospheric Infrared Sounder (AIRS) instrument on board the Aqua satellite. This research assesses the impact of assimilating AIRS profiles on high-resolution ensemble forecasts of southern plains severe weather events occurring on 26 May 2009 and 10 May 2010 by comparing two ensemble forecasts. In one ensemble, the 1830 and 2000 UTC level 2 AIRS temperature and dewpoint profiles are assimilated with all other routine observations into a 36-member, 15-km Weather and Research Forecast Model (WRF) ensemble using a Kalman filter approach. The other ensemble is identical, except that only routine observations are assimilated. In addition, 3-km one-way nested-grid ensemble forecasts are produced during the periods of convection. Results indicate that over the contiguous United States, the AIRS profiles do not measurably improve the ensemble mean forecasts of midtropospheric temperature and dewpoint. However, the ensemble mean dewpoint profiles in the region of severe convective development are improved by the AIRS assimilation. Comparisons of the forecast ensemble radar reflectivity probabilities between the 1- and 4-h forecast times with nearby Weather Surveillance Radar-1988 Doppler (WSR-88D) observations show that AIRS-enhanced ensembles consistently generate more skillful forecasts of the convective features at these times.",
+		"container-title": "Weather and Forecasting",
+		"DOI": "10.1175/WAF-D-11-00090.1",
+		"ISSN": "1520-0434, 0882-8156",
+		"issue": "3",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Weather and Forecasting",
+		"page": "541-564",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Assimilating AIRS Temperature and Mixing Ratio Profiles Using an Ensemble Kalman Filter Approach for Convective-Scale Forecasts",
+		"URL": "https://journals.ametsoc.org/view/journals/wefo/27/3/waf-d-11-00090_1.xml",
+		"volume": "27",
+		"author": [
+			{
+				"family": "Jones",
+				"given": "Thomas A."
+			},
+			{
+				"family": "Stensrud",
+				"given": "David J."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					6,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/9J334B4U",
+		"type": "article-journal",
+		"abstract": "Abstract Radio occultation (RO) refractivity observations provide information about tropospheric water vapor and temperature in all weather conditions. The impact of using RO refractivity observations on analyses and forecasts of Hurricane Ernesto’s genesis (2006) using an ensemble Kaman filter data assimilation system is investigated. Assimilating RO refractivity profiles in the vicinity of the storm locally moistens the analysis of the lower troposphere and also adjusts the wind analysis in both the lower and upper troposphere through forecast multivariate correlations of RO refractivity and wind. The model forecasts propagate and enhance the added water vapor and the wind adjustments leading to more accurate analyses of the later stages of the genesis of the storm. The root-mean-square errors of water vapor and wind forecasts compared to dropsonde and radiosonde observations are reduced consistently. As a result, assimilating RO refractivity data in addition to traditional observations leads to a stronger initial vortex of the storm and improved forecasts of the storm’s intensification. The benefits of the RO data are much reduced when the RO data in the lower troposphere (below 6 km) are ignored.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-11-00024.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "1",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "151-166",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Improved Analyses and Forecasts of Hurricane Ernesto’s Genesis Using Radio Occultation Data in an Ensemble Filter Assimilation System",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/140/1/mwr-d-11-00024.1.xml",
+		"volume": "140",
+		"author": [
+			{
+				"family": "Liu",
+				"given": "Hui"
+			},
+			{
+				"family": "Anderson",
+				"given": "Jeffrey"
+			},
+			{
+				"family": "Kuo",
+				"given": "Ying-Hwa"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/SYLK8966",
+		"type": "article-journal",
+		"abstract": "ABSTRACT Accurate tropical cyclone (TC) track forecasts depend on having skillful numerical model predictions of the environmental wind field. Given that wind and temperature are related through thermal wind balance, structural errors in the processes that determine the tropical temperature profile, such as shallow convection, can therefore lead to biases in TC position. This paper evaluates the influence of shallow convection on Advanced Hurricane Weather Research and Forecasting Model (AHW) TC track forecasts by cycling an ensemble data assimilation during a 1-month period in 2008 where cumulus convection is parameterized on the coarse-resolution domain using the Kain–Fritsch scheme or the modified Tiedtke scheme, which contains a more appropriate treatment of oceanic shallow convection. Short-term forecasts with the Kain–Fritsch scheme are characterized by a 1-K, 700-hPa temperature bias over much of the western Atlantic Ocean, which is attributed to a lack of shallow convection within that scheme. In turn, the horizontal gradients in this temperature bias are associated with wind biases in the region where multiple TCs move during this period. By contrast, the Tiedtke scheme does not suffer from this temperature bias, thus the wind biases are smaller. AHW forecasts initialized from the data assimilation system that uses the Tiedtke scheme have track errors that are up to 25% smaller than forecasts initialized from the data assimilation system that uses Kain–Fritsch.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-11-00246.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "7",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "2188-2197",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "The Influence of Shallow Convection on Tropical Cyclone Track Forecasts",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/140/7/mwr-d-11-00246.1.xml",
+		"volume": "140",
+		"author": [
+			{
+				"family": "Torn",
+				"given": "Ryan D."
+			},
+			{
+				"family": "Davis",
+				"given": "Christopher A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					7,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/CWIQLWHT",
+		"type": "article-journal",
+		"abstract": "Abstract Dual-Doppler wind synthesis and ensemble Kalman filter analyses produced by assimilating Doppler-on-Wheels velocity data collected in four tornadic supercells are examined in order to further understand the maintenance of tornadoes. Although tornado-scale features are not resolved in these analyses, larger-scale processes involved with tornado maintenance are well represented. The longest-lived tornado is maintained underneath the midlevel updraft within a zone of low-level horizontal convergence along a rear-flank gust front for a considerable time, and dissipates when horizontally displaced from the midlevel updraft. The shortest-lived tornado resides in a similar zone of low-level convergence briefly, but dissipates underneath the location of the midlevel updraft when the updraft becomes tilted and low-level convergence is displaced several kilometers from the tornado. This suggests that a location beneath the midlevel updraft is not always a sufficient condition for tornado maintenance, particularly in the presence of strongly surging outflow. Tornadoes in two other storms persist within a band of low-level convergence in the outflow air (a possible secondary rear-flank gust front), suggesting that tornado maintenance can occur away from the main boundary separating the outflow air and the ambient environment. In at least one case, tilting of horizontal vorticity occurs near the tornado along the secondary gust front, as evidenced by three-dimensional vortex line arching. This observation suggests that a relatively cold secondary rear-flank downdraft may assist with tornado maintenance through the baroclinic generation and tilting of horizontal vorticity, despite the fact that parcels composing them would be more negatively buoyant than the preceding outflow air.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-11-00025.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "1",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "3-27",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Tornado Maintenance Investigated with High-Resolution Dual-Doppler and EnKF Analysis",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/140/1/mwr-d-11-00025.1.xml",
+		"volume": "140",
+		"author": [
+			{
+				"family": "Marquis",
+				"given": "James"
+			},
+			{
+				"family": "Richardson",
+				"given": "Yvette"
+			},
+			{
+				"family": "Markowski",
+				"given": "Paul"
+			},
+			{
+				"family": "Dowell",
+				"given": "David"
+			},
+			{
+				"family": "Wurman",
+				"given": "Joshua"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/8CGEGX4N",
+		"type": "chapter",
+		"abstract": "Uncertainty in the position of a feature is a ubiquitous influence on data assimilation (DA) in geophysical applications. This chapter explores the properties of distributions arising from the uncertainty of the location of a flow feature. It is shown that distributions arising from phase uncertainty have surprisingly complex, non-Gaussian characteristics. These non-Gaussian characteristics are explored from an ensemble DA perspective in which the skewness (third-moment) is shown to be a significant contributor to the state-estimates obtained through Bayesian state estimation. Idealized examples, as well as an example in a real tropical cyclone using a state-of-the-art numerical weather prediction model, will be shown.",
+		"container-title": "Data Assimilation for Atmospheric, Oceanic and Hydrologic Applications (Vol. II)",
+		"event-place": "Berlin, Heidelberg",
+		"ISBN": "978-3-642-35088-7",
+		"language": "en",
+		"note": "DOI: 10.1007/978-3-642-35088-7_7",
+		"page": "147-175",
+		"publisher": "Springer",
+		"publisher-place": "Berlin, Heidelberg",
+		"source": "Springer Link",
+		"title": "Skewness of the Prior Through Position Errors and Its Impact on Data Assimilation",
+		"URL": "https://doi.org/10.1007/978-3-642-35088-7_7",
+		"author": [
+			{
+				"family": "Hodyss",
+				"given": "Daniel"
+			},
+			{
+				"family": "Reinecke",
+				"given": "Alex"
+			}
+		],
+		"editor": [
+			{
+				"family": "Park",
+				"given": "Seon Ki"
+			},
+			{
+				"family": "Xu",
+				"given": "Liang"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/5H42E36V",
+		"type": "article-journal",
+		"abstract": "We present results of experiments performing global, ensemble-based, ocean-only data assimilation and assess the utility of such data assimilation in improving model predictions. The POP (Parallel Ocean Program) Ocean General Circulation Model (OGCM) is forced by interannually varying atmospheric fields of version 2 of the Coordinated Ocean Reference Experiment (CORE) data set, and temperature and salinity observations from the World Ocean Database 2009 (WOD09) are assimilated. The assimilation experiments are conducted over a period of about two years starting January 1, 1990 using the framework of the Data Assimilation Research Testbed (DART). We find that an inflation scheme that blends the ensemble-based sample error covariance with a static estimate of ensemble spread is necessary for the assimilations to be effective in the ocean model. We call this Climatology-based Spread Inflation or CSI for short. The effectiveness of the proposed inflation scheme is investigated in a low-order model; a series of experiments in this context demonstrates its effectiveness. Using a number of diagnostics, we show that the resulting assimilated state of ocean circulation is more realistic: In particular, the sea surface temperature (SST) shows reduced errors with respect to an unassimilated SST data set, and the subsurface temperature shows reduced errors with respect to observations. Finally, towards assessing the utility of assimilations for predictions, we show that the use of an assimilated state as initial condition leads to improved hindcast skill over a significant period of time; that is when the OGCM is initialized with an assimilated state and run forward, it is better able to predict unassimilated observations of the WOD09 than a control non-assimilating run (≈ 20% reduction in error) over a period of about three months. The loss of skill beyond this period is conjectured to be due, in part, to model error and prevents an improvement in the representation of variability on longer time-scales.",
+		"container-title": "Ocean Modelling",
+		"DOI": "10.1016/j.ocemod.2013.09.002",
+		"ISSN": "1463-5003",
+		"journalAbbreviation": "Ocean Modelling",
+		"page": "210-230",
+		"source": "ScienceDirect",
+		"title": "Ensemble-based global ocean data assimilation",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1463500313001649",
+		"volume": "72",
+		"author": [
+			{
+				"family": "Nadiga",
+				"given": "Balasubramanya T."
+			},
+			{
+				"family": "Casper",
+				"given": "W. Riley"
+			},
+			{
+				"family": "Jones",
+				"given": "Philip W."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					12,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/LIUFK89Y",
+		"type": "article-journal",
+		"abstract": "Abstract The expansion of surface mesoscale networks (mesonets) across the United States provides a high-resolution observational dataset for meteorological analysis and prediction. To clarify the impact of mesonet data on the accuracy of surface analyses, 2-m temperature, 2-m dewpoint, and 10-m wind analyses for 2-week periods during the warm and cold seasons produced through an ensemble Kalman filter (EnKF) approach are compared to surface analyses created by the Real-Time Mesoscale Analysis (RTMA). Results show in general a similarity between the EnKF analyses and the RTMA, with the EnKF exhibiting a smoother appearance with less small-scale variability. Root-mean-square (RMS) innovations are generally lower for temperature and dewpoint from the RTMA, implying a closer fit to the observations. Kinetic energy spectra computed from the two analyses reveal that the EnKF analysis spectra match more closely to the spectra computed from observations and numerical models in earlier studies. Data-denial experiments using the EnKF completed for the first week of the warm and cold seasons, as well as for two periods characterized by high mesoscale variability within the experimental domain, show that mesonet data removal imparts only minimal degradation to the analyses. This is because of the localized background covariances computed for the four surface variables having spatial scales much larger than the average spacing of mesonet stations. Results show that removing 75% of the mesonet observations has only minimal influence on the analysis.",
+		"container-title": "Weather and Forecasting",
+		"DOI": "10.1175/WAF-D-12-00078.1",
+		"ISSN": "1520-0434, 0882-8156",
+		"issue": "3",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Weather and Forecasting",
+		"page": "815-841",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Influence of Mesonet Observations on the Accuracy of Surface Analyses Generated by an Ensemble Kalman Filter",
+		"URL": "https://journals.ametsoc.org/view/journals/wefo/28/3/waf-d-12-00078_1.xml",
+		"volume": "28",
+		"author": [
+			{
+				"family": "Knopfmeier",
+				"given": "Kent H."
+			},
+			{
+				"family": "Stensrud",
+				"given": "David J."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					6,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/242PVT7M",
+		"type": "article-journal",
+		"abstract": "In this paper the normal-mode function framework is applied to the representation of time-averaged structure of short-term forecast error variances in the 20-member ensemble based on the 4D-Var assimilation system of ECMWF. The applied methodology provides an attractive way to measure the balance by splitting forecast error variances into parts projecting on the balanced and inertio-gravity (IG) circulations; the approach is particularly suitable for the Tropics, where IG circulation dominates on all scales. A little over 50% of the global forecast error variance at short range is balanced. The component of the variance associated with eastward IG modes dominates over the westward IG modes on all zonal scales but the difference gets larger as the zonal wave number increases. There is a major difference in the vertical variance distribution between the balanced and IG modes. A large part of the balanced variance projects on to the barotropic structure in the troposphere, while the IG variances are found in vertical modes that have equatorially trapped horizontal structures corresponding to equivalent depths between a few tens and few hundred metres. The variance growth between 3 h and 12 h range is substantially different in the balanced, eastward and westward IG modes. The balanced variance growth dominates whereas the variance growth in the westerly IG modes is small. In the eastward IG modes, the variance growth is most significant in the large-scale equatorial Kelvin mode.",
+		"container-title": "Quarterly Journal of the Royal Meteorological Society",
+		"DOI": "10.1002/qj.2033",
+		"ISSN": "1477-870X",
+		"issue": "674",
+		"language": "en",
+		"license": "© 2012 Royal Meteorological Society",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/qj.2033",
+		"page": "1229-1238",
+		"source": "Wiley Online Library",
+		"title": "Balance properties of the short-range forecast errors in the ECMWF 4D-Var ensemble",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/qj.2033",
+		"volume": "139",
+		"author": [
+			{
+				"family": "Žagar",
+				"given": "N."
+			},
+			{
+				"family": "Isaksen",
+				"given": "L."
+			},
+			{
+				"family": "Tan",
+				"given": "D."
+			},
+			{
+				"family": "Tribbia",
+				"given": "J."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/57KTY7ZA",
+		"type": "article-journal",
+		"abstract": "Parameterisation schemes of subgrid-scale physical processes in atmospheric models contain so-called closure parameters. Their precise values are not generally known; thus, they are subject to fine-tuning for achieving optimal model performance. In this article, we show that there is a dilemma concerning the optimal parameter values: an identical prediction model formulation can have two different optimal closure parameter value settings depending on the level of approximations made in the data assimilation component of the prediction system. This result tends to indicate that the prediction model re-tuning in large-scale systems is not only needed when the prediction model undergoes a major change, but also when the data assimilation component is updated. Moreover, we advocate an accurate albeit expensive method based on so-called filter likelihood for the closure parameter estimation that is applicable in fine-tuning of both prediction model and data assimilation system parameters. In this article, we use a modified Lorenz-95 system as a prediction model and extended Kalman filter and ensemble adjustment Kalman filter for data assimilation. With this setup, we can compute the filter likelihood for the chosen parameters using the output of the two versions of the Kalman filter and apply a Markov chain Monte Carlo algorithm to explore the parameter posterior distributions.",
+		"container-title": "Tellus A: Dynamic Meteorology and Oceanography",
+		"DOI": "10.3402/tellusa.v65i0.20147",
+		"ISSN": "null",
+		"issue": "1",
+		"note": "publisher: Taylor & Francis\n_eprint: https://doi.org/10.3402/tellusa.v65i0.20147",
+		"page": "20147",
+		"source": "Taylor and Francis+NEJM",
+		"title": "A dilemma of the uniqueness of weather and climate model closure parameters",
+		"URL": "https://doi.org/10.3402/tellusa.v65i0.20147",
+		"volume": "65",
+		"author": [
+			{
+				"family": "Hakkarainen",
+				"given": "Janne"
+			},
+			{
+				"family": "Solonen",
+				"given": "Antti"
+			},
+			{
+				"family": "Ilin",
+				"given": "Alexander"
+			},
+			{
+				"family": "Susiluoto",
+				"given": "Jouni"
+			},
+			{
+				"family": "Laine",
+				"given": "Marko"
+			},
+			{
+				"family": "Haario",
+				"given": "Heikki"
+			},
+			{
+				"family": "Järvinen",
+				"given": "Heikki"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					12,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/PHAG5L4K",
+		"type": "article-journal",
+		"abstract": "The Data Assimilation Research Testbed (DART) ensemble adjustment Kalman filter (EAKF) is employed to perform data assimilation in the Whole Atmosphere Community Climate Model (WACCM). To demonstrate the potential of the WACCM+DART for studying short-term variability in the mesosphere and lower thermosphere (MLT), results are presented based on the assimilation of synthetic observations that are sampled from a known model truth. We assimilate temperature and wind from radiosondes and aircraft, satellite drift winds, and COSMIC refractivity in the lower atmosphere, and SABER temperature observations in the middle/upper atmosphere. Relative to an unconstrained WACCM simulation, the assimilation of only lower atmosphere observations reduces the global root mean square error (RMSE) in zonal wind by up to 40% at MLT altitudes. Using data assimilation to constrain the lower atmosphere can therefore provide significant insight into MLT variability. The RMSE in the MLT is reduced by an additional 10–15% when SABER observations are also assimilated. The WACCM+DART is shown to be able to reproduce the large-scale features of the day-to-day variability in the zonal mean, migrating, and nonmigrating tides in the MLT. Though our simulation results are based on idealized conditions, they demonstrate that the WACCM+DART can reproduce the day-to-day variability in the MLT. Assimilation of real observations in the WACCM+DART will therefore enable significant insight into the real day-to-day dynamical variability from the surface to the lower thermosphere.",
+		"container-title": "Geophysical Research Letters",
+		"DOI": "10.1002/grl.50884",
+		"ISSN": "1944-8007",
+		"issue": "16",
+		"language": "en",
+		"license": "©2013. American Geophysical Union. All Rights Reserved.",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/grl.50884",
+		"page": "4469-4474",
+		"source": "Wiley Online Library",
+		"title": "Application of data assimilation in the Whole Atmosphere Community Climate Model to the study of day-to-day variability in the middle and upper atmosphere",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/grl.50884",
+		"volume": "40",
+		"author": [
+			{
+				"family": "Pedatella",
+				"given": "N. M."
+			},
+			{
+				"family": "Raeder",
+				"given": "K."
+			},
+			{
+				"family": "Anderson",
+				"given": "J. L."
+			},
+			{
+				"family": "Liu",
+				"given": "H.-L."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/6UZICDJE",
+		"type": "article-journal",
+		"abstract": "The ensemble adjustment Kalman filter (EAKF) is used to estimate the erodibility fraction parameter field in a coupled meteorology and dust aerosol model (Coupled Ocean/Atmosphere Mesoscale Prediction System (COAMPS)) over the Sahara desert. Erodibility is often employed as the key parameter to map dust source. It is used along with surface winds (or surface wind stress) to calculate dust emissions. Using the Saharan desert as a test bed, a perfect model Observation System Simulation Experiments (OSSEs) with 40 ensemble members, and observations of aerosol optical depth (AOD), the EAKF is shown to recover correct values of erodibility at about 80% of the points in the domain. It is found that dust advected from upstream grid points acts as noise and complicates erodibility estimation. It is also found that the rate of convergence is significantly impacted by the structure of the initial distribution of erodibility estimates; isotropic initial distributions exhibit slow convergence, while initial distributions with geographically localized structure converge more quickly. Experiments using observations of Deep Blue AOD retrievals from the MODIS satellite sensor result in erodibility estimates that are considerably lower than the values used operationally. Verification shows that the use of the tuned erodibility field results in better predictions of AOD over the west Sahara and the Arabian Peninsula.",
+		"container-title": "Atmospheric Chemistry and Physics",
+		"DOI": "10.5194/acp-13-3481-2013",
+		"ISSN": "1680-7316",
+		"issue": "6",
+		"language": "English",
+		"note": "publisher: Copernicus GmbH",
+		"page": "3481-3500",
+		"source": "Copernicus Online Journals",
+		"title": "Ensemble filter based estimation of spatially distributed parameters in a mesoscale dust model: experiments with simulated and real data",
+		"title-short": "Ensemble filter based estimation of spatially distributed parameters in a mesoscale dust model",
+		"URL": "https://acp.copernicus.org/articles/13/3481/2013/",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Khade",
+				"given": "V. M."
+			},
+			{
+				"family": "Hansen",
+				"given": "J. A."
+			},
+			{
+				"family": "Reid",
+				"given": "J. S."
+			},
+			{
+				"family": "Westphal",
+				"given": "D. L."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					3,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/7KP9ZSK5",
+		"type": "article-journal",
+		"abstract": "Numerical experiments over the past years indicate that incorporating environmental variability is crucial for successful very short-range convective-scale forecasts. To explore the impact of model physics on the creation of environmental variability and its uncertainty, combined mesoscale-convective scale data assimilation experiments are conducted for a tornadic supercell storm. Two 36-member WRF-ARW model-based mesoscale EAKF experiments are conducted to provide background environments using either fixed or multiple physics schemes across the ensemble members. Two 36-member convective-scale ensembles are initialized using background fields from either fixed physics or multiple physics mesoscale ensemble analyses. Radar observations from four operational WSR-88Ds are assimilated into convective-scale ensembles using ARPS model-based 3DVAR system and ensemble forecasts are launched. Results show that the ensemble with background fields from multiple physics ensemble provides more realistic forecasts of significant tornado parameter, dryline structure, and near surface variables than ensemble from fixed physics background fields. The probabilities of strong low-level updraft helicity from multiple physics ensemble correlate better with observed tornado and rotation tracks than probabilities from fixed physics ensemble. This suggests that incorporating physics diversity across the ensemble can be important to successful probabilistic convective-scale forecast of supercell thunderstorms, which is the main goal of NOAA’s Warn-on-Forecast initiative.",
+		"container-title": "Advances in Meteorology",
+		"DOI": "10.1155/2013/731647",
+		"ISSN": "1687-9309",
+		"language": "en",
+		"note": "publisher: Hindawi",
+		"page": "e731647",
+		"source": "www.hindawi.com",
+		"title": "The Impact of Mesoscale Environmental Uncertainty on the Prediction of a Tornadic Supercell Storm Using Ensemble Data Assimilation Approach",
+		"URL": "https://www.hindawi.com/journals/amete/2013/731647/",
+		"volume": "2013",
+		"author": [
+			{
+				"family": "Yussouf",
+				"given": "Nusrat"
+			},
+			{
+				"family": "Gao",
+				"given": "Jidong"
+			},
+			{
+				"family": "Stensrud",
+				"given": "David J."
+			},
+			{
+				"family": "Ge",
+				"given": "Guoqing"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					10,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/VK6MLY3P",
+		"type": "article-journal",
+		"abstract": "Abstract An ensemble of Weather Research and Forecasting Model (WRF) forecasts initialized from a cycling ensemble Kalman filter (EnKF) system is used to evaluate the sensitivity of Hurricanes Danielle and Karl’s (2010) genesis forecasts to vortex and environmental initial conditions via ensemble sensitivity analysis. Both the Danielle and Karl forecasts are sensitive to the 0-h circulation associated with the pregenesis system over a deep layer and to the temperature and water vapor mixing ratio within the vortex over a comparatively shallow layer. Empirical orthogonal functions (EOFs) of the 0-h ensemble kinematic and thermodynamic fields within the vortex indicate that the 0-h circulation and moisture fields covary with one another, such that a stronger vortex is associated with higher moisture through the column. Forecasts of the pregenesis system intensity are only sensitive to the leading mode of variability in the vortex fields, suggesting that only specific initial condition perturbations associated with the vortex will amplify with time. Multivariate regressions of the vortex EOFs and environmental parameters believed to impact genesis suggest that the Karl forecast is most sensitive to the vortex structure, with smaller sensitivity to the upwind integrated water vapor and 200–850-hPa vertical wind shear magnitude. By contrast, the Danielle forecast is most sensitive to the vortex structure during the first 24 h, but is more sensitive to the 200-hPa divergence and vertical wind shear magnitude at longer forecast hours.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-12-00086.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "1",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "232-251",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "The Role of Vortex and Environment Errors in Genesis Forecasts of Hurricanes Danielle and Karl (2010)",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/141/1/mwr-d-12-00086.1.xml",
+		"volume": "141",
+		"author": [
+			{
+				"family": "Torn",
+				"given": "Ryan D."
+			},
+			{
+				"family": "Cook",
+				"given": "David"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/H4SSFAKZ",
+		"type": "article-journal",
+		"abstract": "Abstract An observing system simulation experiment is used to examine the impact of assimilating water vapor–sensitive satellite infrared brightness temperatures and Doppler radar reflectivity and radial velocity observations on the analysis accuracy of a cool season extratropical cyclone. Assimilation experiments are performed for four different combinations of satellite, radar, and conventional observations using an ensemble Kalman filter assimilation system. Comparison with the high-resolution “truth” simulation indicates that the joint assimilation of satellite and radar observations reduces errors in cloud properties compared to the case in which only conventional observations are assimilated. The satellite observations provide the most impact in the mid- to upper troposphere, whereas the radar data also improve the cloud analysis near the surface and aloft as a result of their greater vertical resolution and larger overall sample size. Errors in the wind field are also significantly reduced when radar radial velocity observations were assimilated. Overall, assimilating both satellite and radar data creates the most accurate model analysis, which indicates that both observation types provide independent and complimentary information and illustrates the potential for these datasets for improving mesoscale model analyses and ensuing forecasts.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-12-00267.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "10",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "3273-3299",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Assimilation of Satellite Infrared Radiances and Doppler Radar Observations during a Cool Season Observing System Simulation Experiment",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/141/10/mwr-d-12-00267.1.xml",
+		"volume": "141",
+		"author": [
+			{
+				"family": "Jones",
+				"given": "Thomas A."
+			},
+			{
+				"family": "Otkin",
+				"given": "Jason A."
+			},
+			{
+				"family": "Stensrud",
+				"given": "David J."
+			},
+			{
+				"family": "Knopfmeier",
+				"given": "Kent"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					10,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/N9TB5KNK",
+		"type": "article-journal",
+		"abstract": "Abstract Assimilating satellite-retrieved cloud properties into storm-scale models has received limited attention despite its potential to provide a wide array of information to a model analysis. Available retrievals include cloud water path (CWP), which represents the amount of cloud water and cloud ice present in an integrated column, and cloud-top and cloud-base pressures, which represent the top and bottom pressure levels of the cloud layers, respectively. These interrelated data are assimilated into an Advanced Research Weather Research and Forecasting Model (ARW-WRF) 40-member ensemble with 3-km grid spacing using the Data Assimilation Research Testbed (DART) ensemble Kalman filter. A new CWP forward operator combines the satellite-derived cloud information with similar variables generated by WRF. This approach is tested using a severe weather event on 10 May 2010. One experiment only assimilates conventional (CONV) observations, while the second assimilates the identical conventional observations and the satellite-derived CWP (PATH). Comparison of the CWP observations at 2045 UTC to CONV and PATH analyses shows that PATH has an improved representation of both the magnitude and spatial orientation of CWP compared to CONV. Assimilating CWP acts both to suppress convection in the model where none is present in satellite data and to encourage convection where it is observed. Oklahoma Mesonet observations of downward shortwave flux at 2100 UTC indicate that PATH reduces the root-mean-square difference errors in downward shortwave flux by 75 W m−2 compared to CONV. Reduction in model error is generally maximized during the initial 30-min forecast period with the impact of CWP observations decreasing for longer forecast times.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-12-00238.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "7",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "2272-2289",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Evaluation of a Forward Operator to Assimilate Cloud Water Path into WRF-DART",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/141/7/mwr-d-12-00238.1.xml",
+		"volume": "141",
+		"author": [
+			{
+				"family": "Jones",
+				"given": "Thomas A."
+			},
+			{
+				"family": "Stensrud",
+				"given": "David J."
+			},
+			{
+				"family": "Minnis",
+				"given": "Patrick"
+			},
+			{
+				"family": "Palikonda",
+				"given": "Rabindra"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					7,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/XHPVYKC5",
+		"type": "article-journal",
+		"abstract": "Abstract In this study, ensemble sensitivity analysis has been applied to examine the evolution of two extreme extratropical cyclones over the Pacific. Sensitivity using, as forecast metrics, forecast cyclone minimum pressure and location, as well as principal components (PCs) of the leading EOFs in forecast SLP variations near the cyclone center, has been computed for medium-range forecasts of up to 7.5 days. Results presented here show that coherent sensitivity patterns can be tracked from the forecast validation time back in time to at least day −6, with the sensitivity signal exhibiting downstream development characteristics in most cases. Comparing the different forecast metrics, sensitivity patterns derived from the PCs of the leading EOFs in forecast SLP variations are apparently more coherent than those derived from cyclone parameters. To test whether the linear sensitivity analyses provide quantitatively accurate guidance under the highly nonlinear evolution of the atmospheric flow, perturbed initial condition experiments have been conducted using initial condition perturbations derived based on ensemble sensitivity. Results of this study suggest that in the medium range, perturbations derived from cyclone parameters are quite effective in modifying the evolution of the cyclones out to 5.5 days, but are largely ineffective for 7.5-day forecasts. On the other hand, perturbations derived based on the PCs of the leading EOFs are still quite effective in modifying forecast cyclone location out to 7.5 days. These results suggest that EOF-based sensitivities perform better than cyclone parameter-based sensitivities in the medium range.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-11-00304.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "1",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "211-231",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Medium-Range Ensemble Sensitivity Analysis of Two Extreme Pacific Extratropical Cyclones",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/141/1/mwr-d-11-00304.1.xml",
+		"volume": "141",
+		"author": [
+			{
+				"family": "Chang",
+				"given": "Edmund K. M."
+			},
+			{
+				"family": "Zheng",
+				"given": "Minghua"
+			},
+			{
+				"family": "Raeder",
+				"given": "Kevin"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/GNA556QF",
+		"type": "article-journal",
+		"abstract": "Abstract Real-time analyses and forecasts using an ensemble Kalman filter (EnKF) and the Advanced Hurricane Weather Research and Forecasting Model (AHW) are evaluated from the 2009 North Atlantic hurricane season. This data assimilation system involved cycling observations that included conventional in situ data, tropical cyclone (TC) position, and minimum SLP and synoptic dropsondes each 6 h using a 96-member ensemble on a 36-km domain for three months. Similar to past studies, observation assimilation systematically reduces the TC position and minimum SLP errors, except for strong TCs, which are characterized by large biases due to grid resolution. At 48 different initialization times, an AHW forecast on 12-, 4-, and 1.33-km grids is produced with initial conditions drawn from a single analysis member. Whereas TC track analyses and forecasts exhibit a pronounced northward bias, intensity forecast errors are similar to (lower than) the NWS Hurricane Weather Research Model (HWRF) and GFDL forecasts for forecast lead times ≤60 h (>60 h), with the largest track errors associated with the weakest systems, such as Tropical Storm (TS) Erika. Several shortcomings of the data assimilation system are addressed through postseason sensitivity tests, including using the maximum 800-hPa circulation to identify the TC position during assimilation and turning off the quality control for the TC minimum SLP observation when the initial intensity is far too weak. In addition, the improved forecast of TS Erika relative to HWRF is shown to be related to having initial conditions that are more representative of a sheared TC and not using a cumulus parameterization.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-12-00139.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "2",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "523-541",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Evaluation of the Advanced Hurricane WRF Data Assimilation System for the 2009 Atlantic Hurricane Season",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/141/2/mwr-d-12-00139.1.xml",
+		"volume": "141",
+		"author": [
+			{
+				"family": "Cavallo",
+				"given": "Steven M."
+			},
+			{
+				"family": "Torn",
+				"given": "Ryan D."
+			},
+			{
+				"family": "Snyder",
+				"given": "Chris"
+			},
+			{
+				"family": "Davis",
+				"given": "Christopher"
+			},
+			{
+				"family": "Wang",
+				"given": "Wei"
+			},
+			{
+				"family": "Done",
+				"given": "James"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					2,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/LRQQK88K",
+		"type": "article-journal",
+		"abstract": "Abstract In this paper, a modified probability-matching technique is developed for ensemble-based quantitative precipitation forecasts (QPFs) associated with landfalling typhoons over Taiwan. The main features of this technique include a resampling of the ensemble realizations, a rainfall pattern adjustment, and a bias correction. Using this technique, a synthetic ensemble is created for the purpose of rainfall prediction from a large-size (32 members), low-resolution (36 km) ensemble and a small-size (8 members), high-resolution (4 km) ensemble. The rainfall pattern is adjusted based on the precipitation distribution of the 36- and 4-km ensembles. A bias-correction scheme is then applied to remove the known systematic bias from the resampled 4-km ensemble realizations as part of the probability-matching procedure. The modified probability-matching scheme is shown to substantially reduce or eliminate the intrinsic model rainfall bias and to provide better QPF guidance. The encouraging results suggest that this modified probability-matching technique is a useful tool for the QPF of the topography-enhanced typhoon heavy rainfall over Taiwan using ensemble forecasts at dual resolutions.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-13-00012.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "11",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "3908-3932",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Improving Ensemble-Based Quantitative Precipitation Forecasts for Topography-Enhanced Typhoon Heavy Rainfall over Taiwan with a Modified Probability-Matching Technique",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/141/11/mwr-d-13-00012.1.xml",
+		"volume": "141",
+		"author": [
+			{
+				"family": "Fang",
+				"given": "Xingqin"
+			},
+			{
+				"family": "Kuo",
+				"given": "Ying-Hwa"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					11,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/CW9ZMAAQ",
+		"type": "article-journal",
+		"abstract": "Abstract The authors report on the implementation and evaluation of a 48-member ensemble adjustment Kalman filter (EAKF) for the ocean component of the Community Climate System Model, version 4 (CCSM4). The ocean assimilation system described was developed to support the eventual generation of historical ocean-state estimates and ocean-initialized climate predictions with the CCSM4 and its next generation, the Community Earth System Model (CESM). In this initial configuration of the system, daily subsurface temperature and salinity data from the 2009 World Ocean Database are assimilated into the ocean model from 1 January 1998 to 31 December 2005. Each ensemble member of the ocean is forced by a member of an independently generated CCSM4 atmospheric EAKF analysis, making this a loosely coupled framework. Over most of the globe, the time-mean temperature and salinity fields are improved relative to an identically forced ocean model simulation without assimilation. This improvement is especially notable in strong frontal regions such as the western and eastern boundary currents. The assimilation system is most effective in the upper 1000 m of the ocean, where the vast majority of in situ observations are located. Because of the shortness of this experiment, ocean variability is not discussed. Challenges that arise from using an ocean model with strong regional biases, coarse resolution, and low internal variability to assimilate real observations are discussed, and areas of ongoing improvement for the assimilation system are outlined.",
+		"container-title": "Journal of Climate",
+		"DOI": "10.1175/JCLI-D-12-00402.1",
+		"ISSN": "0894-8755, 1520-0442",
+		"issue": "19",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Journal of Climate",
+		"page": "7392-7413",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "An Ensemble Adjustment Kalman Filter for the CCSM4 Ocean Component",
+		"URL": "https://journals.ametsoc.org/view/journals/clim/26/19/jcli-d-12-00402.1.xml",
+		"volume": "26",
+		"author": [
+			{
+				"family": "Karspeck",
+				"given": "Alicia R."
+			},
+			{
+				"family": "Yeager",
+				"given": "Steve"
+			},
+			{
+				"family": "Danabasoglu",
+				"given": "Gokhan"
+			},
+			{
+				"family": "Hoar",
+				"given": "Tim"
+			},
+			{
+				"family": "Collins",
+				"given": "Nancy"
+			},
+			{
+				"family": "Raeder",
+				"given": "Kevin"
+			},
+			{
+				"family": "Anderson",
+				"given": "Jeffrey"
+			},
+			{
+				"family": "Tribbia",
+				"given": "Joseph"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					10,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/IYTMWMUC",
+		"type": "article-journal",
+		"abstract": "Key Points Objective parameter estimation using Ensemble Kalman Filter techniques Cumulus-convection scheme of an atmospheric general circulation model Applying numerical weather prediction techniques to a climate model",
+		"container-title": "Journal of Advances in Modeling Earth Systems",
+		"DOI": "10.1029/2012MS000167",
+		"ISSN": "1942-2466",
+		"issue": "1",
+		"language": "en",
+		"license": "©2012. American Geophysical Union. All Rights Reserved.",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1029/2012MS000167",
+		"page": "58-70",
+		"source": "Wiley Online Library",
+		"title": "Parameter estimation using data assimilation in an atmospheric general circulation model: From a perfect toward the real world",
+		"title-short": "Parameter estimation using data assimilation in an atmospheric general circulation model",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1029/2012MS000167",
+		"volume": "5",
+		"author": [
+			{
+				"family": "Schirber",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Klocke",
+				"given": "Daniel"
+			},
+			{
+				"family": "Pincus",
+				"given": "Robert"
+			},
+			{
+				"family": "Quaas",
+				"given": "Johannes"
+			},
+			{
+				"family": "Anderson",
+				"given": "Jeffrey L."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/E6XWHCB7",
+		"type": "article-journal",
+		"abstract": "Soil moisture status in land surface models (LSMs) can be updated by assimilating cosmic-ray neutron intensity measured in air above the surface. This requires a fast and accurate model to calculate the neutron intensity from the profiles of soil moisture modeled by the LSM. The existing Monte Carlo N-Particle eXtended (MCNPX) model is sufficiently accurate but too slow to be practical in the context of data assimilation. Consequently an alternative and efficient model is needed which can be calibrated accurately to reproduce the calculations made by MCNPX and used to substitute for MCNPX during data assimilation. This paper describes the construction and calibration of such a model, COsmic-ray Soil Moisture Interaction Code (COSMIC), which is simple, physically based and analytic, and which, because it runs at least 50 000 times faster than MCNPX, is appropriate in data assimilation applications. The model includes simple descriptions of (a) degradation of the incoming high-energy neutron flux with soil depth, (b) creation of fast neutrons at each depth in the soil, and (c) scattering of the resulting fast neutrons before they reach the soil surface, all of which processes may have parameterized dependency on the chemistry and moisture content of the soil. The site-to-site variability in the parameters used in COSMIC is explored for 42 sample sites in the COsmic-ray Soil Moisture Observing System (COSMOS), and the comparative performance of COSMIC relative to MCNPX when applied to represent interactions between cosmic-ray neutrons and moist soil is explored. At an example site in Arizona, fast-neutron counts calculated by COSMIC from the average soil moisture profile given by an independent network of point measurements in the COSMOS probe footprint are similar to the fast-neutron intensity measured by the COSMOS probe. It was demonstrated that, when used within a data assimilation framework to assimilate COSMOS probe counts into the Noah land surface model at the Santa Rita Experimental Range field site, the calibrated COSMIC model provided an effective mechanism for translating model-calculated soil moisture profiles into aboveground fast-neutron count when applied with two radically different approaches used to remove the bias between data and model.",
+		"container-title": "Hydrology and Earth System Sciences",
+		"DOI": "10.5194/hess-17-3205-2013",
+		"ISSN": "1027-5606",
+		"issue": "8",
+		"language": "English",
+		"note": "publisher: Copernicus GmbH",
+		"page": "3205-3217",
+		"source": "Copernicus Online Journals",
+		"title": "The COsmic-ray Soil Moisture Interaction Code (COSMIC) for use in data assimilation",
+		"URL": "https://hess.copernicus.org/articles/17/3205/2013/",
+		"volume": "17",
+		"author": [
+			{
+				"family": "Shuttleworth",
+				"given": "J."
+			},
+			{
+				"family": "Rosolem",
+				"given": "R."
+			},
+			{
+				"family": "Zreda",
+				"given": "M."
+			},
+			{
+				"family": "Franz",
+				"given": "T."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					8,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/3CRSSUIM",
+		"type": "article-journal",
+		"abstract": "Abstract Localization is a method for reducing the impact of sampling errors in ensemble Kalman filters. Here, the regression coefficient, or gain, relating ensemble increments for observed quantity y to increments for state variable x is multiplied by a real number α defined as a localization. Localization of the impact of observations on model state variables is required for good performance when applying ensemble data assimilation to large atmospheric and oceanic problems. Localization also improves performance in idealized low-order ensemble assimilation applications. An algorithm that computes localization from the output of an ensemble observing system simulation experiment (OSSE) is described. The algorithm produces localizations for sets of pairs of observations and state variables: for instance, all state variables that are between 300- and 400-km horizontal distance from an observation. The algorithm is applied in a low-order model to produce localizations from the output of an OSSE and the computed localizations are then used in a new OSSE. Results are compared to assimilations using tuned localizations that are approximately Gaussian functions of the distance between an observation and a state variable. In most cases, the empirically computed localizations produce the lowest root-mean-square errors in subsequent OSSEs. Localizations derived from OSSE output can provide guidance for localization in real assimilation experiments. Applying the algorithm in large geophysical applications may help to tune localization for improved ensemble filter performance.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-12-00330.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "11",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "4140-4153",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Empirical Localization of Observation Impact in Ensemble Kalman Filters",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/141/11/mwr-d-12-00330.1.xml",
+		"volume": "141",
+		"author": [
+			{
+				"family": "Anderson",
+				"given": "Jeffrey"
+			},
+			{
+				"family": "Lei",
+				"given": "Lili"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					11,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/2C9A7W63",
+		"type": "article-journal",
+		"abstract": "Abstract A combined mesoscale and storm-scale ensemble data-assimilation and prediction system is developed using the Advanced Research core of the Weather Research and Forecasting Model (WRF-ARW) and the ensemble adjustment Kalman filter (EAKF) from the Data Assimilation Research Testbed (DART) software package for a short-range ensemble forecast of an 8 May 2003 Oklahoma City, Oklahoma, tornadic supercell storm. Traditional atmospheric observations are assimilated into a 45-member mesoscale ensemble over a continental U.S. domain starting 3 days prior to the event. A one-way-nested 45-member storm-scale ensemble is initialized centered on the tornadic event at 2100 UTC on the day of the event. Three radar observation assimilation and forecast experiments are conducted at storm scale using a single-moment, a semi-double-moment, and a full double-moment bulk microphysics scheme. Results indicate that the EAKF initializes the supercell storm into the model with good accuracy after a 1-h-long radar observation assimilation window. The ensemble forecasts capture the movement of the main supercell storm that matches reasonably well with radar observations. The reflectivity structure of the supercell storm using a double-moment microphysics scheme appears to compare better to the observations than that using a single-moment scheme. In addition, the ensemble system predicts the probability of a strong low-level vorticity track of the tornadic supercell that correlates well with the observed rotation track. The rapid 3-min update cycle of the storm-scale ensemble from the radar observations seems to enhance the skill of the ensemble and the confidence of an imminent tornado threat. The encouraging results obtained from this study show promise for a short-range probabilistic storm-scale forecast of supercell thunderstorms, which is the main goal of NOAA's Warn-on-Forecast initiative.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-12-00237.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "10",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "3388-3412",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "The Ensemble Kalman Filter Analyses and Forecasts of the 8 May 2003 Oklahoma City Tornadic Supercell Storm Using Single- and Double-Moment Microphysics Schemes",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/141/10/mwr-d-12-00237.1.xml",
+		"volume": "141",
+		"author": [
+			{
+				"family": "Yussouf",
+				"given": "Nusrat"
+			},
+			{
+				"family": "Mansell",
+				"given": "Edward R."
+			},
+			{
+				"family": "Wicker",
+				"given": "Louis J."
+			},
+			{
+				"family": "Wheatley",
+				"given": "Dustan M."
+			},
+			{
+				"family": "Stensrud",
+				"given": "David J."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					10,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/E4CSLLE4",
+		"type": "article-journal",
+		"abstract": "The current status and challenges associated with two aspects of Warn-on-Forecast—a National Oceanic and Atmospheric Administration research project exploring the use of a convective-scale ensemble analysis and forecast system to support hazardous weather warning operations—are outlined. These two project aspects are the production of a rapidly-updating assimilation system to incorporate data from multiple radars into a single analysis, and the ability of short-range ensemble forecasts of hazardous convective weather events to provide guidance that could be used to extend warning lead times for tornadoes, hailstorms, damaging windstorms and flash floods. Results indicate that a three-dimensional variational assimilation system, that blends observations from multiple radars into a single analysis, shows utility when evaluated by forecasters in the Hazardous Weather Testbed and may help increase confidence in a warning decision. The ability of short-range convective-scale ensemble forecasts to provide guidance that could be used in warning operations is explored for five events: two tornadic supercell thunderstorms, a macroburst, a damaging windstorm and a flash flood. Results show that the ensemble forecasts of the three individual severe thunderstorm events are very good, while the forecasts from the damaging windstorm and flash flood events, associated with mesoscale convective systems, are mixed. Important interactions between mesoscale and convective-scale features occur for the mesoscale convective system events that strongly influence the quality of the convective-scale forecasts. The development of a successful Warn-on-Forecast system will take many years and require the collaborative efforts of researchers and operational forecasters to succeed.",
+		"collection-title": "6th European Conference on Severe Storms 2011. Palma de Mallorca, Spain",
+		"container-title": "Atmospheric Research",
+		"DOI": "10.1016/j.atmosres.2012.04.004",
+		"ISSN": "0169-8095",
+		"journalAbbreviation": "Atmospheric Research",
+		"page": "2-16",
+		"source": "ScienceDirect",
+		"title": "Progress and challenges with Warn-on-Forecast",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S016980951200110X",
+		"volume": "123",
+		"author": [
+			{
+				"family": "Stensrud",
+				"given": "David J."
+			},
+			{
+				"family": "Wicker",
+				"given": "Louis J."
+			},
+			{
+				"family": "Xue",
+				"given": "Ming"
+			},
+			{
+				"family": "Dawson",
+				"given": "Daniel T."
+			},
+			{
+				"family": "Yussouf",
+				"given": "Nusrat"
+			},
+			{
+				"family": "Wheatley",
+				"given": "Dustan M."
+			},
+			{
+				"family": "Thompson",
+				"given": "Therese E."
+			},
+			{
+				"family": "Snook",
+				"given": "Nathan A."
+			},
+			{
+				"family": "Smith",
+				"given": "Travis M."
+			},
+			{
+				"family": "Schenkman",
+				"given": "Alexander D."
+			},
+			{
+				"family": "Potvin",
+				"given": "Corey K."
+			},
+			{
+				"family": "Mansell",
+				"given": "Edward R."
+			},
+			{
+				"family": "Lei",
+				"given": "Ting"
+			},
+			{
+				"family": "Kuhlman",
+				"given": "Kristin M."
+			},
+			{
+				"family": "Jung",
+				"given": "Youngsun"
+			},
+			{
+				"family": "Jones",
+				"given": "Thomas A."
+			},
+			{
+				"family": "Gao",
+				"given": "Jidong"
+			},
+			{
+				"family": "Coniglio",
+				"given": "Michael C."
+			},
+			{
+				"family": "Brooks",
+				"given": "Harold E."
+			},
+			{
+				"family": "Brewster",
+				"given": "Keith A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					4,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/NHY6LGE2",
+		"type": "article-journal",
+		"abstract": "This paper describes the improvements in the simulation of a heavy rainfall event due to the assimilation of surface wind observations from the Oceansat-2 scatterometer using ensemble Kalman filter (EnKF) technique. A heavy rainfall event over the southern peninsular region of India during the northeast Indian monsoon season is investigated in this paper using the Advanced Research Weather Research and Forecasting model. A control (CTRL) run where no surface wind observations are assimilated, as well as a 3-D variational (3DVar) run and an EnKF run wherein surface wind observations are assimilated using the 3DVar and EnKF techniques, is performed. Results indicate that the EnKF assimilation run simulates various meteorological fields, including precipitation fields during the rainfall event, better than the CTRL and the 3DVar runs. Qualitative and quantitative comparisons with Tropical Rainfall Measurement Mission precipitation observations indicate that the rainfall simulation shows improvement due to EnKF assimilation as compared with the other two model runs. Vertical profiles of area-averaged and time-averaged relative vorticities and temperature anomalies around the low-pressure system are also better reproduced in the EnKF experiment. Considering the importance of accurate real time simulations of heavy rainfall events associated with the Indian monsoon season, this paper provides encouraging results on the utility of EnKF technique as applied over the Indian region.",
+		"container-title": "IEEE Transactions on Geoscience and Remote Sensing",
+		"DOI": "10.1109/TGRS.2014.2317501",
+		"ISSN": "1558-0644",
+		"issue": "12",
+		"note": "event-title: IEEE Transactions on Geoscience and Remote Sensing",
+		"page": "7721-7726",
+		"source": "IEEE Xplore",
+		"title": "Improved Rainfall Simulation by Assimilating Oceansat-2 Surface Winds Using Ensemble Kalman Filter for a Heavy Rainfall Event over South India",
+		"URL": "https://ieeexplore.ieee.org/abstract/document/6813672",
+		"volume": "52",
+		"author": [
+			{
+				"family": "Dhanya",
+				"given": "M."
+			},
+			{
+				"family": "Chandrasekar",
+				"given": "A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/NEVTLMT6",
+		"type": "article-journal",
+		"abstract": "Abstract An important aspect of numerical weather model improvement is the identification of deficient areas of the model, particularly deficiencies that are flow dependent or otherwise vary in time or space. Here the authors introduce the use of self-organizing maps (SOMs) and analysis increments from data assimilation to identify model deficiencies. Systematic increments reveal time- and space-dependent systematic errors, while SOMs provide a method for categorizing forecasts or increment patterns. The SOMs can be either used for direct analysis or used to produce composites of other fields. This study uses the forecasts and increments of 2-m temperature and dry column mass perturbation μ over a 4-week period to demonstrate the potential of this technique. Results demonstrate the potential of this technique for identifying spatially varying systematic model errors.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-13-00189.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "4",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "1688-1696",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "The Potential for Self-Organizing Maps to Identify Model Error Structures",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/142/4/mwr-d-13-00189.1.xml",
+		"volume": "142",
+		"author": [
+			{
+				"family": "Kolczynski",
+				"given": "Walter C."
+			},
+			{
+				"family": "Hacker",
+				"given": "Joshua P."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					4,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/K5877TJE",
+		"type": "article-journal",
+		"abstract": "AbstractA global assimilation that uses an Ensemble Kalman Filter and a set of derived scaling equations is presented for jointly adjusting the amount of atmospheric aerosol and the relative contribution of fine and coarse aerosols. The assimilation uses Department of Energy and National Science Foundation's Community Atmosphere Model (CAM) model and aerosol optical depth (AOD) and Angstrom exponent (AE) retrievals from NASA's Moderate Resolution Imaging Spectroradiometer (MODIS) instrument. Aerosol Robotic Network (AERONET) AE retrievals are used to constrain size over land. The presented system includes 60 ensemble members with a daily analysis, incorporating daily-averaged retrievals. A CAM control simulation and a CAM experiment with data assimilation (CAM-DA) are run for the year 2007. Control run comparisons to MODIS observations reveal a persistent negative bias in AOD, indicating an underprediction of the amount of atmospheric aerosol (CAM: 0.09 (±0.06), MODIS:0.16 (±0.09)). The negative bias decreased in the assimilation run with a globally averaged AOD of 0.12 (±0.05). CAM-DA is able to better capture spatial and temporal variations. A comparison of regional time series reveals the greatest reduction in model bias with respect to both aerosol amount and size over the oceans, especially the Southern Ocean. With respect to land regions, good agreement with AERONET AOD is found over the United States, Europe, and East Asia. Additionally, CAM-DA has clear spatial differences from the control with more aerosol and a larger fine contribution in the Northern Hemisphere. The results also demonstrate the utility in assimilation methodologies for identifying systematic model biases, using the data assimilation correction fields as an indicator.",
+		"container-title": "Journal of Geophysical Research: Atmospheres",
+		"DOI": "10.1002/2014JD021627",
+		"ISSN": "2169-8996",
+		"issue": "22",
+		"language": "en",
+		"license": "©2014. American Geophysical Union. All Rights Reserved.",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/2014JD021627",
+		"page": "12,780-12,806",
+		"source": "Wiley Online Library",
+		"title": "Global simulations of aerosol amount and size using MODIS observations assimilated with an Ensemble Kalman Filter",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/2014JD021627",
+		"volume": "119",
+		"author": [
+			{
+				"family": "Rubin",
+				"given": "J. I."
+			},
+			{
+				"family": "Collins",
+				"given": "W. D."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/3Q7BHGNB",
+		"type": "article-journal",
+		"abstract": "Abstract The empirical localization algorithm described here uses the output from an observing system simulation experiment (OSSE) and constructs localization functions that minimize the root-mean-square (RMS) difference between the truth and the posterior ensemble mean for state variables. This algorithm can automatically provide an estimate of the localization function and does not require empirical tuning of the localization scale. It can compute an appropriate localization function for any potential observation type and kind of state variable. The empirical localization algorithm is investigated in the Community Atmosphere Model, version 5 (CAM5). The empirical localization function (ELF) is computed for the horizontal and vertical separately so that the vertical localization is explored explicitly. The horizontal and vertical ELFs are also computed for different geographic regions. The ELFs varying with region have advantages over the single global ELF in the horizontal and vertical, because different localization functions are more effective in different regions. The ELFs computed from an OSSE can be used as the localization in a subsequent OSSE. After three iterations, the ELFs appear to have converged. When used as localization in an OSSE, the converged ELFs produce a significantly smaller RMS error of temperature and zonal and meridional winds than the best Gaspari–Cohn (GC) localization for a dependent verification period using the observations from the original OSSE, and a similar RMS error to the best GC for an independent verification period. The converged ELFs have a significantly smaller RMS error of surface pressure than the best GC for both dependent and independent verification periods.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-13-00288.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "5",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "1835-1851",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Empirical Localization of Observations for Serial Ensemble Kalman Filter Data Assimilation in an Atmospheric General Circulation Model",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/142/5/mwr-d-13-00288.1.xml",
+		"volume": "142",
+		"author": [
+			{
+				"family": "Lei",
+				"given": "Lili"
+			},
+			{
+				"family": "Anderson",
+				"given": "Jeffrey L."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					5,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/6NFNVMX4",
+		"type": "article-journal",
+		"abstract": "Abstract Probabilistic forecasts of tropical cyclogenesis have been evaluated for two samples: a near-homogeneous sample of ECMWF and Weather Research and Forecasting (WRF) Model–ensemble Kalman filter (EnKF) ensemble forecasts during the National Science Foundation’s (NSF) Pre-Depression Investigation of Cloud-systems in the Tropics (PREDICT) field campaign (15 August–30 September 2010) and ECMWF ensemble forecasts during the 2010–12 Atlantic hurricane seasons. Quantitative criteria for tropical cyclone (TC) formation were first determined from model analyses based on threshold values of lower-tropospheric circulation, local thickness anomaly, and minimum sea level pressure. A binary verification was then performed for all ensemble forecasts with initial-time tropical disturbances. During the PREDICT period, the ECMWF and WRF–EnKF had similar verification statistics, with reliability diagrams of positive slope flatter than unity, and relative operating characteristic (ROC) curves that demonstrate skill. For the 2010–12 ECMWF ensemble forecasts, the equitable threat score was small and positive, with skill mostly lost after 5 days. The reliability diagrams for 1–5-day forecasts were monotonic increasing, though an overly large number of short-range ensemble forecasts predicted a low probability of a TC when a TC was verified. The ROC curves exhibited similar skill for forecasts out to 5 days. The reliability curves were sensitive to parameters such as time tolerance and threshold values, and insensitive to cases that originated from African easterly waves versus those that did not. Qualitative investigations revealed case-to-case variability in the probabilistic predictions. While the sample size was limited, the ensembles showed the potential for probabilistic prediction out to 5 days, though it appeared that the model struggled with developing a warm core in the short-range forecast.",
+		"container-title": "Weather and Forecasting",
+		"DOI": "10.1175/WAF-D-14-00028.1",
+		"ISSN": "1520-0434, 0882-8156",
+		"issue": "5",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Weather and Forecasting",
+		"page": "1181-1198",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Probabilistic Verification of Global and Mesoscale Ensemble Forecasts of Tropical Cyclogenesis",
+		"URL": "https://journals.ametsoc.org/view/journals/wefo/29/5/waf-d-14-00028_1.xml",
+		"volume": "29",
+		"author": [
+			{
+				"family": "Majumdar",
+				"given": "Sharanya J."
+			},
+			{
+				"family": "Torn",
+				"given": "Ryan D."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					10,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/E9DQQK6V",
+		"type": "article-journal",
+		"abstract": "Abstract A series of numerical experiments are conducted to examine the impact of surface observations on the prediction of landfalls of Hurricane Katrina (2005), one of the deadliest disasters in U.S. history. A specific initial time (0000 UTC 25 August 2005), which led to poor prediction of Hurricane Katrina in several previous studies, is selected to begin data assimilation experiments. Quick Scatterometer (QuikSCAT) ocean surface wind vectors and surface mesonet observations are assimilated with the minimum central sea level pressure and conventional observations from NCEP into an Advanced Research version of the Weather Research and Forecasting Model (WRF) using an ensemble Kalman filter method. Impacts of data assimilation on the analyses and forecasts of Katrina’s track, landfalling time and location, intensity, structure, and rainfall are evaluated. It is found that the assimilation of QuikSCAT and mesonet surface observations can improve prediction of the hurricane track and structure through modifying low-level thermal and dynamical fields such as wind, humidity, and temperature and enhancing low-level convergence and vorticity. However, assimilation of single-level surface observations alone does not ensure reasonable intensity forecasts because of the lack of constraint on the mid- to upper troposphere. When surface observations are assimilated with other conventional data, obvious enhancements are found in the forecasts of track and intensity, realistic convection, and surface wind structures. More importantly, surface data assimilation results in significant improvements in quantitative precipitation forecasts (QPFs) during landfalls.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-14-00014.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "8",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "2915-2934",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Influence of Assimilating Surface Observations on Numerical Prediction of Landfalls of Hurricane Katrina (2005) with an Ensemble Kalman Filter",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/142/8/mwr-d-14-00014.1.xml",
+		"volume": "142",
+		"author": [
+			{
+				"family": "Zhang",
+				"given": "Hailing"
+			},
+			{
+				"family": "Pu",
+				"given": "Zhaoxia"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					8,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/33P7RP9F",
+		"type": "article-journal",
+		"abstract": "Abstract The value of assimilating targeted dropwindsonde observations meant to improve tropical cyclone intensity forecasts is evaluated using data collected during the Pre-Depression Investigation of Cloud-Systems in the Tropics (PREDICT) field project and a cycling ensemble Kalman filter. For each of the four initialization times studied, four different sets of Weather Research and Forecasting Model (WRF) ensemble forecasts are produced: one without any dropwindsonde data, one with all dropwindsonde data assimilated, one where a small subset of “targeted” dropwindsondes are identified using the ensemble-based sensitivity method, and a set of randomly selected dropwindsondes. For all four cases, the assimilation of dropwindsondes leads to an improved intensity forecast, with the targeted dropwindsonde experiment recovering at least 80% of the difference between the experiment where all dropwindsondes and no dropwindsondes are assimilated. By contrast, assimilating randomly selected dropwindsondes leads to a smaller impact in three of the four cases. In general, zonal and meridional wind observations at or below 700 hPa have the largest impact on the forecast due to the large sensitivity of the intensity forecast to the horizontal wind components at these levels and relatively large ensemble standard deviation relative to the assumed observation errors.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-13-00284.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "8",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "2860-2878",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "The Impact of Targeted Dropwindsonde Observations on Tropical Cyclone Intensity Forecasts of Four Weak Systems during PREDICT",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/142/8/mwr-d-13-00284.1.xml",
+		"volume": "142",
+		"author": [
+			{
+				"family": "Torn",
+				"given": "Ryan D."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					8,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/FR954VM8",
+		"type": "article-journal",
+		"abstract": "Abstract Two techniques for estimating good localization functions for serial ensemble Kalman filters are compared in observing system simulation experiments (OSSEs) conducted with the dynamical core of an atmospheric general circulation model. The first technique, the global group filter (GGF), minimizes the root-mean-square (RMS) difference between the estimated regression coefficients using a hierarchical ensemble filter. The second, the empirical localization function (ELF), minimizes the RMS difference between the true values of the state variables and the posterior ensemble mean. Both techniques provide an estimate of the localization function for an observation’s impact on a state variable with few a priori assumptions about the localization function. The ELF localizations can have values larger than 1.0 at small distances, indicating that this technique addresses localization but also can correct the prior ensemble spread in the same way as a variance inflation when needed. OSSEs using ELF localizations generally have smaller root-mean-square error (RMSE) than the optimal Gaspari and Cohn (GC) localization function obtained by empirically tuning the GC width. The localization functions estimated by the GGF are broader than those from the ELF, and the OSSEs with the GGF localization generally have larger RMSE than the optimal GC localization function. The GGFs are too broad because of spurious correlation biases that occur in the OSSEs. These errors can be reduced by using a stochastic EnKF with perturbed observations instead of a deterministic EAKF.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-13-00152.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "2",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "739-754",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Comparisons of Empirical Localization Techniques for Serial Ensemble Kalman Filters in a Simple Atmospheric General Circulation Model",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/142/2/mwr-d-13-00152.1.xml",
+		"volume": "142",
+		"author": [
+			{
+				"family": "Lei",
+				"given": "Lili"
+			},
+			{
+				"family": "Anderson",
+				"given": "Jeffrey L."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					2,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/5JLCC297",
+		"type": "article-journal",
+		"abstract": "Abstract In the first part of this study, Jones et al. compared the relative skill of assimilating simulated radar reflectivity and radial velocity observations and satellite 6.95-μm brightness temperatures TB and found that both improved analyses of water vapor and cloud hydrometeor variables for a cool-season, high-impact weather event across the central United States. In this study, the authors examine the impact of the observations on 1–3-h forecasts and provide additional analysis of the relationship between simulated satellite and radar data observations to various water vapor and cloud hydrometeor variables. Correlation statistics showed that the radar and satellite observations are sensitive to different variables. Assimilating 6.95-μm TB primarily improved the atmospheric water vapor and frozen cloud hydrometeor variables such as ice and snow. Radar reflectivity proved more effective in both the lower and midtroposphere with the best results observed for rainwater, graupel, and snow. The impacts of assimilating both datasets decrease rapidly as a function of forecast time. By 1 h, the effects of satellite data become small on forecast cloud hydrometeor values, though it remains useful for atmospheric water vapor. The impacts of radar data last somewhat longer, sometimes up to 3 h, but also display a large decrease in effectiveness by 1 h. Generally, assimilating both satellite and radar data simultaneously generates the best analysis and forecast for most cloud hydrometeor variables.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-13-00151.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "1",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "107-124",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Forecast Evaluation of an Observing System Simulation Experiment Assimilating Both Radar and Satellite Data",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/142/1/mwr-d-13-00151.1.xml",
+		"volume": "142",
+		"author": [
+			{
+				"family": "Jones",
+				"given": "Thomas A."
+			},
+			{
+				"family": "Otkin",
+				"given": "Jason A."
+			},
+			{
+				"family": "Stensrud",
+				"given": "David J."
+			},
+			{
+				"family": "Knopfmeier",
+				"given": "Kent"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/ZTR4X8WT",
+		"type": "article-journal",
+		"abstract": "Abstract The use of dense pressure observations is investigated for creating mesoscale ensemble analyses and improving short-term mesoscale forecasts. By exploiting additional observation platforms, the number of pressure observations over the Pacific Northwest region is increased by an order of magnitude over standard airport observations. Quality control and bias correction methods for these observations are discussed, including the use of pressure tendency as an alternative observation type with fewer bias concerns. The enhanced station density provided by these observations contributes to localized adjustments for a variety of mesoscale phenomena. These adjusted analyses yield improved forecasts, including more accurate forecasts of frontal passages and convective bands. Assimilating dense 3-h pressure tendency observations also reduces the error in some forecast surface fields similarly to raw pressure observations, suggesting further investigation into pressure tendency as a mesoscale observation type.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-13-00269.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "7",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "2398-2413",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Utility of Dense Pressure Observations for Improving Mesoscale Analyses and Forecasts",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/142/7/mwr-d-13-00269.1.xml",
+		"volume": "142",
+		"author": [
+			{
+				"family": "Madaus",
+				"given": "Luke E."
+			},
+			{
+				"family": "Hakim",
+				"given": "Gregory J."
+			},
+			{
+				"family": "Mass",
+				"given": "Clifford F."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					7,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/MMDUETT8",
+		"type": "article-journal",
+		"abstract": "Abstract This study investigates probabilistic forecasts made using different convection-allowing ensemble configurations for a three-day period in June 2010 when numerous heavy-rain-producing mesoscale convective systems (MCSs) occurred in the United States. These MCSs developed both along a baroclinic zone in the Great Plains, and in association with a long-lived mesoscale convective vortex (MCV) in Texas and Arkansas. Four different ensemble configurations were developed using an ensemble-based data assimilation system. Two configurations used continuously cycled data assimilation, and two started the assimilation 24 h prior to the initialization of each forecast. Each configuration was run with both a single set of physical parameterizations and a mixture of physical parameterizations. These four ensemble forecasts were also compared with an ensemble run in real time by the Center for the Analysis and Prediction of Storms (CAPS). All five of these ensemble systems produced skillful probabilistic forecasts of the heavy-rain-producing MCSs, with the ensembles using mixed physics providing forecasts with greater skill and less overall bias compared to the single-physics ensembles. The forecasts using ensemble-based assimilation systems generally outperformed the real-time CAPS ensemble at lead times of 6–18 h, whereas the CAPS ensemble was the most skillful at forecast hours 24–30, though it also exhibited a wet bias. The differences between the ensemble precipitation forecasts were found to be related in part to differences in the analysis of the MCV and its environment, which in turn affected the evolution of errors in the forecasts of the MCSs. These results underscore the importance of representing model error in convection-allowing ensemble analysis and prediction systems.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-13-00357.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "11",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "4108-4138",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Evaluation of Ensemble Configurations for the Analysis and Prediction of Heavy-Rain-Producing Mesoscale Convective Systems",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/142/11/mwr-d-13-00357.1.xml",
+		"volume": "142",
+		"author": [
+			{
+				"family": "Schumacher",
+				"given": "Russ S."
+			},
+			{
+				"family": "Clark",
+				"given": "Adam J."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					11,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/3ZEVX4CT",
+		"type": "article-journal",
+		"abstract": "Abstract A Weather Research and Forecasting Model (WRF)-based ensemble data assimilation system is used to produce storm-scale analyses and forecasts of the 4–5 July 2003 severe mesoscale convective system (MCS) over Indiana and Ohio, which produced numerous high wind reports across the two states. Single-Doppler observations are assimilated into a 36-member, storm-scale ensemble during the developing stage of the MCS with the ensemble Kalman filter (EnKF) approach encoded in the Data Assimilation Research Testbed (DART). The storm-scale ensemble is constructed from mesoscale EnKF analyses produced from the assimilation of routinely available observations from land and marine stations, rawinsondes, and aircraft, in an attempt to better represent the complex mesoscale environment for this event. Three EnKF simulations were performed using the National Severe Storms Laboratory (NSSL) one- and two-moment and Thompson microphysical schemes. All three experiments produce a linear convective segment at the final analysis time, similar to the observed system at 2300 UTC 4 July 2003. The higher-order schemes—in particular, the Thompson scheme—are better able to produce short-range forecasts of both the convective and stratiform components of the observed bowing MCS, and produce the smallest temperature errors when comparing surface observations and dropsonde data to corresponding model data. Only the higher-order microphysical schemes produce any appreciable rear-to-front flow in the stratiform precipitation region that trailed the simulated systems. Forecast performance by the three microphysics schemes is discussed in context of differences in microphysical composition produced in the stratiform precipitation regions of the rearward expanding MCSs.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-13-00260.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "9",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "3243-3263",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Ensemble Kalman Filter Analyses and Forecasts of a Severe Mesoscale Convective System Using Different Choices of Microphysics Schemes",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/142/9/mwr-d-13-00260.1.xml",
+		"volume": "142",
+		"author": [
+			{
+				"family": "Wheatley",
+				"given": "Dustan M."
+			},
+			{
+				"family": "Yussouf",
+				"given": "Nusrat"
+			},
+			{
+				"family": "Stensrud",
+				"given": "David J."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/FHKAQ88N",
+		"type": "article-journal",
+		"abstract": "Millions of smartphones possess relatively accurate pressure sensors and the expectation is that these numbers will grow into the hundreds of millions globally during the next few years. The availability of millions of pressure observations each hour from smartphones has major implications for high-resolution numerical weather prediction. This paper reviews smartphone pressure-sensor technology, describes commercial efforts to collect the data in real time, examines the implications for mesoscale weather prediction, and provides an example of assimilating smartphone pressure observations for a strong convective event over eastern Washington State.",
+		"container-title": "Bulletin of the American Meteorological Society",
+		"DOI": "10.1175/BAMS-D-13-00188.1",
+		"ISSN": "0003-0007, 1520-0477",
+		"issue": "9",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Bulletin of the American Meteorological Society",
+		"page": "1343-1349",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Surface Pressure Observations from Smartphones: A Potential Revolution for High-Resolution Weather Prediction?",
+		"title-short": "Surface Pressure Observations from Smartphones",
+		"URL": "https://journals.ametsoc.org/view/journals/bams/95/9/bams-d-13-00188.1.xml",
+		"volume": "95",
+		"author": [
+			{
+				"family": "Mass",
+				"given": "Clifford F."
+			},
+			{
+				"family": "Madaus",
+				"given": "Luke E."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/3GQP3TJP",
+		"type": "article-journal",
+		"abstract": "Abstract The use of ensembles in numerical weather prediction models is becoming an increasingly effective method of forecasting. Many studies have shown that using the mean of an ensemble as a deterministic solution produces the most accurate forecasts. However, the mean will eventually lose its usefulness as a deterministic forecast in the presence of nonlinearity. At synoptic scales, this appears to occur between 12- and 24-h forecast time, and on storm scales it may occur significantly faster due to stronger nonlinearity. When this does occur, the question then becomes the following: Should the mean still be adhered to, or would a different approach produce better results? This paper will investigate the usefulness of the mean within a WRF Model utilizing an ensemble Kalman filter for severe convective events. To determine when the mean becomes unrealistic, the divergence of the mean of the ensemble (“mean”) and a deterministic forecast initialized from a set of mean initial conditions (“control”) are examined. It is found that significant divergence between the mean and control emerges no later than 6 h into a convective event. The mean and control are each compared to observations, with the control being more accurate for nearly all forecasts studied. For the case where the mean provides a better forecast than the control, an approach is offered to identify the member or group of members that is closest to the mean. Such a forecast will contain similar forecast errors as the mean, but unlike the mean, will be on an actual forecast trajectory.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-14-00417.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "12",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "5115-5133",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Ensemble Mean Storm-Scale Performance in the Presence of Nonlinearity",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/143/12/mwr-d-14-00417.1.xml",
+		"volume": "143",
+		"author": [
+			{
+				"family": "Hollan",
+				"given": "Michael A."
+			},
+			{
+				"family": "Ancell",
+				"given": "Brian C."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					12,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/ZR7FNF9X",
+		"type": "article-journal",
+		"abstract": "Abstract Expansion in the availability of relocatable near-surface atmospheric observing sensors introduces the question of where placement maximizes gain in forecast accuracy. As one possible method of addressing observation placement, the performance of ensemble sensitivity analysis (ESA) is examined for high-resolution (Δx = 4 km) predictions in complex terrain and during weak flow. ESA can be inaccurate when the underlying assumptions of linear dynamics (and Gaussian statistics) are violated, or when the sensitivity cannot be robustly sampled. A case study of a fog event at Salt Lake City International Airport (KSLC) in Utah provides a useful basis for examining these issues, with the additional influence of complex terrain. A realistic upper-air observing network is used in perfect-model ensemble data assimilation experiments, providing the statistics for ESA. Results show that water vapor mixing ratios over KSLC are sensitive to potential temperature on the first model layer tens of kilometers away, 6 h prior to verification and prior to the onset of fog. Potential temperatures indicate inversion strength in the Salt Lake basin; the ESA predicts southerly flow and strengthened inversions will increase water vapor over KSLC. Linearity tests show that the nonlinear response is about twice the expected response. Experiments with smaller ensembles show that qualitatively similar conclusions about the sensitivity pattern can be reached with ensembles as small as 48 members, but smaller ensembles do not produce accurate sensitivity estimates. Taken together, the results motivate a closer look at the fundamental characteristics of ESA when dynamics (and therefore correlations) are weak.",
+		"container-title": "Weather and Forecasting",
+		"DOI": "10.1175/WAF-D-14-00066.1",
+		"ISSN": "1520-0434, 0882-8156",
+		"issue": "6",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Weather and Forecasting",
+		"page": "1521-1536",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "The Potential Utility of High-Resolution Ensemble Sensitivity Analysis for Observation Placement during Weak Flow in Complex Terrain",
+		"URL": "https://journals.ametsoc.org/view/journals/wefo/30/6/waf-d-14-00066_1.xml",
+		"volume": "30",
+		"author": [
+			{
+				"family": "Wile",
+				"given": "Sean M."
+			},
+			{
+				"family": "Hacker",
+				"given": "Joshua P."
+			},
+			{
+				"family": "Chilcoat",
+				"given": "Kenneth H."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					12,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/26JJDSQV",
+		"type": "article-journal",
+		"abstract": "Snow microwave radiance assimilation (RA) or brightness temperature data assimilation (DA) has shown promise for improving snow water equivalent (SWE) estimation. A successful RA study requires, however, an analysis of the error characteristics of coupled land surface-radiative transfer models (LSM/RTMs). This paper focuses on the Community Land Model version 4 (CLM4) as the land-surface model and on the microwave emission model for layered snowpacks (MEMLS) and the dense media radiative transfer multilayer (DMRT-ML) model as RTMs. Using the National Aeronautics and Space Administration Cold Land Processes Field Experiment (CLPX) data sets and through synthetic experiments, the errors of the coupled CLM4/DMRT-ML and CLM4/MEMLS are characterized by: 1) evaluating the CLM4 snowpack state simulations; 2) assessing the performance of RTMs in simulating the brightness temperature (TB); and 3) analyzing the correlations between the SWE error (ε_SWE) and the TB error (ε_TB) from the RA perspective. The results using the CLPX data sets show that, given a large error of the snow grain radius (ε_re) under dry snowpack conditions (along with a small error of the snow temperature (ε_Tsnow)), the correlations between ε_SWE and ε_TB are mainly determined by the relationship between ε_re and the snow depth error (ε_dsnow) or the snow density error (ε_ρsnow). The synthetic experiments were carried out for the CLPX region (shallow snowpack conditions) and the Rocky Mountains (deep snowpack conditions) using the atmospheric ensemble reanalysis produced by the coupled DA Research Testbed/Community Atmospheric Model (CAM4). The synthetic experiments support the results from the CLPX data sets and show that the errors of soil (the water content and the temperature), snow wetness, and snow temperature mostly result in positive correlations between ε_SWE and ε_TB. CLM4/DMRT-ML and CLM4/MEMLS tend to produce varying RA performance, with more positive and negative correlations between ε_SWE and ε_TB, respectively. These results suggest the necessity of using multiple snowpack RTMs in RA to improve the SWE estimation at the continental scale. The results in this paper also show that the magnitude of ε_re and its relationship to ε_SWE are important for the RA performance. Most of the SWE estimations in RA are improved when ε_SWE and ε_re show a high positive correlation (greater than 0.5).",
+		"container-title": "IEEE Transactions on Geoscience and Remote Sensing",
+		"DOI": "10.1109/TGRS.2015.2419977",
+		"ISSN": "1558-0644",
+		"issue": "9",
+		"note": "event-title: IEEE Transactions on Geoscience and Remote Sensing",
+		"page": "5247-5268",
+		"source": "IEEE Xplore",
+		"title": "Error Characterization of Coupled Land Surface-Radiative Transfer Models for Snow Microwave Radiance Assimilation",
+		"URL": "https://ieeexplore.ieee.org/abstract/document/7098361",
+		"volume": "53",
+		"author": [
+			{
+				"family": "Kwon",
+				"given": "Yonghwan"
+			},
+			{
+				"family": "Toure",
+				"given": "Ally M."
+			},
+			{
+				"family": "Yang",
+				"given": "Zong-Liang"
+			},
+			{
+				"family": "Rodell",
+				"given": "Matthew"
+			},
+			{
+				"family": "Picard",
+				"given": "Ghislain"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/94FVV7Y3",
+		"type": "article-journal",
+		"abstract": "Sensitivity analysis is performed in order to determine objectively the role of storm structure during periods of rapid intensification in a sample of five Atlantic hurricanes. Weather Research and Forecasting (WRF) model 24 h forecasts for 96 member ensembles provide the basis for analyses of hurricanes Bill (2009), Earl (2010), Igor (2010), Katia (2011) and Ophelia (2011). Ensemble sensitivity analysis is used to investigate which patterns in the analysis have a strong influence on the forecast intensity and then a novel sensitivity compositing technique is used to identify common patterns that affect the forecast intensity. We find a common response for increasing intensity associated with an initial increased primary and secondary circulation, an increased warm core, an elevated tropopause and moistening of the rain-band region. Perturbed initial-condition experiments show a linear response for modest initial amplitude and also signs of nonlinearity for large perturbations, indicating that these sensitivity patterns are robust for limited additional strengthening of the hurricane. When initial perturbations are partitioned into dry and moist variables, we find that most of the forecast change is achieved by the dry dynamics. Further investigation into convective indicators reveals that simulations in which only moist variables are perturbed experience less convective development in the eyewall throughout the forecast.",
+		"container-title": "Quarterly Journal of the Royal Meteorological Society",
+		"DOI": "10.1002/qj.2540",
+		"ISSN": "1477-870X",
+		"issue": "692",
+		"language": "en",
+		"license": "© 2015 Royal Meteorological Society",
+		"note": "_eprint: https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1002/qj.2540",
+		"page": "2538-2551",
+		"source": "Wiley Online Library",
+		"title": "Sensitivity of intensifying Atlantic hurricanes to vortex structure",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/qj.2540",
+		"volume": "141",
+		"author": [
+			{
+				"family": "Brown",
+				"given": "Bonnie R."
+			},
+			{
+				"family": "Hakim",
+				"given": "Gregory J."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/YYFTIGDL",
+		"type": "article-journal",
+		"abstract": "Abstract The Geostationary Operational Environmental Satellite-R Series will provide cloud-top observations on the convective scale at roughly the same frequency as Doppler radar observations. To evaluate the potential value of cloud-top temperature observations for data assimilation, an imperfect-model observing system simulation experiment is used. Synthetic cloud-top temperature observations from an idealized splitting supercell created using the Weather Research and Forecasting Model are assimilated along with synthetic radar reflectivity and radial velocity using an ensemble Kalman filter. Observations are assimilated every 5 min for 2.5 h with additive noise used to maintain ensemble spread. Four experiments are conducted to explore the relative value of cloud-top temperature and radar observations. One experiment only assimilates satellite data, another only assimilates radar data, and two more experiments assimilate both radar and satellite observations, but with the observation types assimilated in different order. Results show a rather weak correlation between cloud-top temperature and horizontal winds, whereas larger correlations are found between cloud-top temperature and microphysics variables. However, the assimilation of cloud-top temperature data alone produces a supercell storm in the ensemble, although the resulting ensemble has much larger spread compared to the ensembles of radar inclusive experiments. The addition of radar observations greatly improves the storm structure and reduces the overprediction of storm extent. Results further show that assimilating cloud-top temperature observations in addition to radar data does not lead to an improved forecast. However, assimilating cloud-top temperature can produce reasonable forecasts for areas lacking radar coverage.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-14-00146.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "4",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "1018-1034",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Assimilation of Cloud-Top Temperature and Radar Observations of an Idealized Splitting Supercell Using an Observing System Simulation Experiment",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/143/4/mwr-d-14-00146.1.xml",
+		"volume": "143",
+		"author": [
+			{
+				"family": "Kerr",
+				"given": "Christopher A."
+			},
+			{
+				"family": "Stensrud",
+				"given": "David J."
+			},
+			{
+				"family": "Wang",
+				"given": "Xuguang"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					4,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/QFDG2NZZ",
+		"type": "article-journal",
+		"abstract": "Our limited ability to accurately simulate leaf phenology is a leading source of uncertainty in models of ecosystem carbon cycling. We evaluate if continuously updating canopy state variables with observations is beneficial for predicting phenological events. We employed ensemble adjustment Kalman filter (EAKF) to update predictions of leaf area index (LAI) and leaf extension using tower-based photosynthetically active radiation (PAR) and moderate resolution imaging spectrometer (MODIS) data for 2002–2005 at Willow Creek, Wisconsin, USA, a mature, even-aged, northern hardwood, deciduous forest. The ecosystem demography model version 2 (ED2) was used as the prediction model, forced by offline climate data. EAKF successfully incorporated information from both the observations and model predictions weighted by their respective uncertainties. The resulting estimate reproduced the observed leaf phenological cycle in the spring and the fall better than a parametric model prediction. These results indicate that during spring the observations contribute most in determining the correct bud-burst date, after which the model performs well, but accurately modeling fall leaf senesce requires continuous model updating from observations. While the predicted net ecosystem exchange (NEE) of CO2 precedes tower observations and unassimilated model predictions in the spring, overall the prediction follows observed NEE better than the model alone. Our results show state data assimilation successfully simulates the evolution of plant leaf phenology and improves model predictions of forest NEE.",
+		"container-title": "Ecological Applications",
+		"DOI": "10.1890/14-0497.1",
+		"ISSN": "1939-5582",
+		"issue": "2",
+		"language": "en",
+		"license": "© 2015 by the Ecological Society of America",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1890/14-0497.1",
+		"page": "546-558",
+		"source": "Wiley Online Library",
+		"title": "Model-data assimilation of multiple phenological observations to constrain and predict leaf area index",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1890/14-0497.1",
+		"volume": "25",
+		"author": [
+			{
+				"family": "Viskari",
+				"given": "Toni"
+			},
+			{
+				"family": "Hardiman",
+				"given": "Brady"
+			},
+			{
+				"family": "Desai",
+				"given": "Ankur R."
+			},
+			{
+				"family": "Dietze",
+				"given": "Michael C."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/QBL49UMP",
+		"type": "article-journal",
+		"abstract": "Abstract The sensitivity of assimilating satellite retrievals of cloud water path (CWP) to the microphysics scheme used by a convection-allowing numerical model is explored. All experiments use the Advanced Research core of the Weather Research and Forecasting Model (WRF-ARW), with observations assimilated using the Data Assimilation Research Testbed ensemble adjustment Kalman filter and a 40-member ensemble. Three-dimensional idealized supercell simulations are generated from a deterministic WRF nature run started from a homogeneous set of initial conditions. Four cloud microphysics schemes are tested: Lin–Farley–Orville (LFO), Thompson (THOMP), Morrison double-moment (MOR), and Milbrandt–Yau (MY). For the idealized experiments, assimilating CWP generates a mature supercell after approximately 1 h for all microphysics schemes. Vertical profiles of ensemble covariances show large differences in the relationship between CWP and various hydrometeor mixing ratios. While the differences in overall CWP are small, the experiments generate very different reflectivity analyses of the simulated storm, with MOR and MY underestimating reflectivity by a large margin. Vertical profiles of hydrometeor mixing ratios from each experiment are generally consistent with scheme design, such that the Thompson scheme characterizes the storm top as mostly snow whereas the Milbrandt–Yau scheme characterizes the storm top as mostly ice. The impacts of these differences on 30-min forecasts show that MOR and MY are unable to maintain convection within the model while THOMP and LFO perform somewhat better, though all fail to capture the divergent movement of the storm split in the nature run.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-14-00266.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "6",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "2052-2081",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Assimilating Cloud Water Path as a Function of Model Cloud Microphysics in an Idealized Simulation",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/143/6/mwr-d-14-00266.1.xml",
+		"volume": "143",
+		"author": [
+			{
+				"family": "Jones",
+				"given": "Thomas A."
+			},
+			{
+				"family": "Stensrud",
+				"given": "David J."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/K9NZ96MA",
+		"type": "article-journal",
+		"abstract": "Abstract Recent studies have shown that assimilating enhanced satellite-derived atmospheric motion vectors (AMVs) has improved mesoscale forecast of tropical cyclones (TC) track and intensity. The authors conduct data-denial experiments to understand where the TC analyses and forecasts benefit the most from the enhanced AMV information using an ensemble Kalman filter and the Weather Research and Forecasting Model. The Cooperative Institute for Meteorological Satellite Studies at the University of Wisconsin provides enhanced AMV datasets with higher density and temporal resolution using shorter-interval image triplets for the duration of Typhoon Sinlaku and Hurricane Ike (both 2008). These AMV datasets are then spatially and vertically subsetted to create six parallel cycled assimilation-forecast experiments for each TC: all AMVs; AMVs withheld between 100 and 350 hPa (upper layer), between 350 and 700 hPa (middle layer), and between 700 and 999 hPa (lower layer); and only AMVs within (interior) and outside (exterior) 1000-km radius of the TC center. All AMV subsets are found to be useful in some capacity. The interior and upper-layer AMVs are particularly crucial for improving initial TC position, intensity, and the three-dimensional wind structure along with their forecasts. Compared with denying interior or exterior AMVs, withholding AMVs in different tropospheric layers had less impact on TC intensity and size forecasts. The ensemble forecast is less certain (larger spread) in providing accurate TC track, intensity, and size when upper-layer AMVs or interior AMVs are withheld. This information could be useful to potential targeting scenarios, such as activating and focusing satellite rapid-scan operations, and decisions regarding observing system assessments and deployments.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-14-00220.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "7",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "2506-2531",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Understanding the Influence of Assimilating Subsets of Enhanced Atmospheric Motion Vectors on Numerical Analyses and Forecasts of Tropical Cyclone Track and Intensity with an Ensemble Kalman Filter",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/143/7/mwr-d-14-00220.1.xml",
+		"volume": "143",
+		"author": [
+			{
+				"family": "Wu",
+				"given": "Ting-Chi"
+			},
+			{
+				"family": "Velden",
+				"given": "Christopher S."
+			},
+			{
+				"family": "Majumdar",
+				"given": "Sharanya J."
+			},
+			{
+				"family": "Liu",
+				"given": "Hui"
+			},
+			{
+				"family": "Anderson",
+				"given": "Jeffrey L."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					7,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/2ZPJ3BU6",
+		"type": "article-journal",
+		"abstract": "Thisstudy assesses retrospective decadal prediction skill of sea surface temperature (SST) variability in initialized climate prediction experiments with the Community Climate System Model version 4 (CCSM4). Ensemble forecasts initialized with two different historical ocean and sea-ice states are evaluated and compared to an ensemble of uninitialized coupled simulations. Both experiments are subject to identical twentieth century historical radiative forcings. Each forecast consists of a 10-member ensemble integrated over a 10-year period. One set of historical ocean and sea-ice conditions used for initialization comes from a forced ocean-ice simulation driven by the Coordinated Ocean-ice Reference Experiments interannually varying atmospheric dataset. Following the Coordinated Model Intercomparison Project version 5 (CMIP5) protocol, these forecasts are initialized every 5 years from 1961 to 1996, and every year from 2000 to 2006. A second set of initial conditions comes from historical ocean state estimates obtained through the assimilation of in-situ temperature and salinity data into the CCSM4 ocean model. These forecasts are only available over a limited subset of the CMIP5 recommended start dates. Both methods result in retrospective SST prediction skill over broad regions of the Indian Ocean, western Pacific Ocean and North Atlantic Ocean that are significantly better than reference skill levels from a spatio-temporal auto-regressive statistical model of SST. However the subpolar gyre region of the North Atlantic stands out as the only region where the CCSM4 initialized predictions outperform uninitialized simulations. Some features of the ocean state estimates used for initialization and their impact on the forecasts are discussed.",
+		"container-title": "Climate Dynamics",
+		"DOI": "10.1007/s00382-014-2212-7",
+		"ISSN": "1432-0894",
+		"issue": "3",
+		"journalAbbreviation": "Clim Dyn",
+		"language": "en",
+		"page": "907-923",
+		"source": "Springer Link",
+		"title": "An evaluation of experimental decadal predictions using CCSM4",
+		"URL": "https://doi.org/10.1007/s00382-014-2212-7",
+		"volume": "44",
+		"author": [
+			{
+				"family": "Karspeck",
+				"given": "A."
+			},
+			{
+				"family": "Yeager",
+				"given": "S."
+			},
+			{
+				"family": "Danabasoglu",
+				"given": "G."
+			},
+			{
+				"family": "Teng",
+				"given": "H."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					2,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/JBVNSHUW",
+		"type": "article-journal",
+		"abstract": "Abstract Surface data assimilation (DA) has the potential to improve forecasts of convection initiation (CI) and short-term forecasts of convective evolution. Since the processes driving CI occur on scales inadequately observed by conventional observation networks, mesoscale surface networks could be especially beneficial given their higher temporal and spatial resolution. This work aims to assess the impact of high-frequency assimilation of mesonet surface DA on ensemble forecasts of CI initialized with ensemble Kalman filter (EnKF) analyses of the 29 May 2012 convective event over the southern Great Plains. Mesonet and conventional surface observations were assimilated every 5 min for 3 h from 1800 to 2100 UTC and 3-h ensemble forecasts were produced. Forecasts of CI timing and location were improved by assimilating the surface datasets in comparison to experiments where mesonet data were withheld. This primarily occurred due to a more accurate representation of the boundary layer moisture profile across the domain, especially in the vicinity of a dryline and stationary boundary. Ensemble forecasts produced by assimilating surface observations at hourly intervals, instead of every 5 min, showed only minor improvements in CI. The 5-min assimilation of mesonet data improved forecasts of the placement and timing of CI for this particular event due to the ability of mesonet data to capture rapidly evolving mesoscale features and to constrain model biases, particularly surface moisture errors, during the cycling period.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-14-00126.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "9",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "3700-3725",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Assimilating Surface Mesonet Observations with the EnKF to Improve Ensemble Forecasts of Convection Initiation on 29 May 2012",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/143/9/mwr-d-14-00126.1.xml",
+		"volume": "143",
+		"author": [
+			{
+				"family": "Sobash",
+				"given": "Ryan A."
+			},
+			{
+				"family": "Stensrud",
+				"given": "David J."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/G97NF4EW",
+		"type": "article-journal",
+		"abstract": "Abstract Assimilating high-resolution radar reflectivity and radial velocity into convection-permitting numerical weather prediction models has proven to be an important tool for improving forecast skill of convection. The use of satellite data for the application is much less well understood, only recently receiving significant attention. Since both radar and satellite data provide independent information, combing these two sources of data in a robust manner potentially represents the future of high-resolution data assimilation. This research combines Geostationary Operational Environmental Satellite 13 (GOES-13) cloud water path (CWP) retrievals with Weather Surveillance Radar-1988 Doppler (WSR-88D) reflectivity and radial velocity to examine the impacts of assimilating each for a severe weather event occurring in Oklahoma on 24 May 2011. Data are assimilated into a 3-km model using an ensemble adjustment Kalman filter approach with 36 members over a 2-h assimilation window between 1800 and 2000 UTC. Forecasts are then generated for 90 min at 5-min intervals starting at 1930 and 2000 UTC. Results show that both satellite and radar data are able to initiate convection, but that assimilating both spins up a storm much faster. Assimilating CWP also performs well at suppressing spurious precipitation and cloud cover in the model as well as capturing the anvil characteristics of developed storms. Radar data are most effective at resolving the 3D characteristics of the core convection. Assimilating both satellite and radar data generally resulted in the best model analysis and most skillful forecast for this event.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-14-00180.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "1",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "165-194",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Simultaneous Radar and Satellite Data Storm-Scale Assimilation Using an Ensemble Kalman Filter Approach for 24 May 2011",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/143/1/mwr-d-14-00180.1.xml",
+		"volume": "143",
+		"author": [
+			{
+				"family": "Jones",
+				"given": "Thomas A."
+			},
+			{
+				"family": "Stensrud",
+				"given": "David"
+			},
+			{
+				"family": "Wicker",
+				"given": "Louis"
+			},
+			{
+				"family": "Minnis",
+				"given": "Patrick"
+			},
+			{
+				"family": "Palikonda",
+				"given": "Rabindra"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/DJ9E3QIP",
+		"type": "article-journal",
+		"abstract": "Abstract Forecast sensitivity of an April 2012 severe convection event in northern Texas is investigated with a high-resolution Weather Research and Forecasting (WRF) Model–based ensemble Kalman filter (EnKF). Through ensemble sensitivity analysis (ESA), which relates a forecast metric to initial and early forecast errors by linear regression, features of the flow are revealed that reflect dynamical relationships with the forecast convection. Results indicate that ESA can be successfully applied to high-resolution forecasts of convection, and the most important features are related to the synoptic-scale flow such as positioning of an upper-level low and lower-level thermodynamic characteristics of air masses. Comparisons of the maximum and minimum convectively active members in the region of interest show that the fields generated by ESA are consistent with the actual evolution of the event: members with more eastward progression of the synoptic-scale system produced a stronger convection forecast. The forecast metric of interest is modified in several ways to further evaluate the strength of the results of the sensitivity analysis. Three different variables acting as convection proxies (reflectivity, vertical velocity, and precipitation) are tested along with changing the location of the forecast metric and its spatial size. These additional tests highlight the same synoptic features of the flow with the only major differences reflecting the importance of magnitude versus position of the convective forecast.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-13-00321.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "1",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "230-249",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Ensemble Sensitivity Analysis Applied to a Southern Plains Convective Event",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/143/1/mwr-d-13-00321.1.xml",
+		"volume": "143",
+		"author": [
+			{
+				"family": "Bednarczyk",
+				"given": "Christopher N."
+			},
+			{
+				"family": "Ancell",
+				"given": "Brian C."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/F9WSFV6N",
+		"type": "article-journal",
+		"abstract": "Abstract As part of NOAA’s Warn-on-Forecast (WoF) initiative, a multiscale ensemble-based assimilation and prediction system is developed using the WRF-ARW model and DART assimilation software. To evaluate the capabilities of the system, retrospective short-range probabilistic storm-scale (convection allowing) ensemble analyses and forecasts are produced for the 27 April 2011 Alabama severe weather outbreak. Results indicate that the storm-scale ensembles are able to analyze the observed storms with strong low-level rotation at approximately the correct locations and to retain the supercell structures during the 0–1-h forecasts with reasonable accuracy. The system predicts the low-level mesocyclones of significant isolated tornadic supercells that align well with the locations of radar-derived rotation. For cases with multiple interacting storms in close proximity, the system tends to produce more variability in mesocyclone forecasts from one initialization time to the next until the observations show the dominance of one of the cells. The short-range ensemble probabilistic forecasts obtained from this continuous 5-min storm-scale 6-h-long update system demonstrate the potential of a frequently updated, high-resolution NWP system that could be used to extend severe weather warning lead times. This study also demonstrates the challenges associated with developing a WoF-type system. The results motivate future work to reduce model errors associated with storm motion and spurious cells, and to design storm-scale ensembles that better represent typical 1-h forecast errors.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-14-00268.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "8",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "3044-3066",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Storm-Scale Data Assimilation and Ensemble Forecasts for the 27 April 2011 Severe Weather Outbreak in Alabama",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/143/8/mwr-d-14-00268.1.xml",
+		"volume": "143",
+		"author": [
+			{
+				"family": "Yussouf",
+				"given": "Nusrat"
+			},
+			{
+				"family": "Dowell",
+				"given": "David C."
+			},
+			{
+				"family": "Wicker",
+				"given": "Louis J."
+			},
+			{
+				"family": "Knopfmeier",
+				"given": "Kent H."
+			},
+			{
+				"family": "Wheatley",
+				"given": "Dustan M."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					8,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/LCJLLWET",
+		"type": "article-journal",
+		"abstract": "Abstract Global data assimilation systems for numerical weather prediction (NWP) are characterized by significant uncertainties in tropical analysis fields. Furthermore, the largest spread of global ensemble forecasts in the short range on all scales is in the tropics. The presented results suggest that these properties hold even in the perfect-model framework and the ensemble Kalman filter data assimilation with a globally homogeneous network of wind and temperature profiles. The reasons for this are discussed by using the modal analysis, which provides information about the scale dependency of analysis and forecast uncertainties and information about the efficiency of data assimilation to reduce the prior uncertainties in the balanced and inertio-gravity dynamics. The scale-dependent representation of variance reduction of the prior ensemble by the data assimilation shows that the peak efficiency of data assimilation is on the synoptic scales in the midlatitudes that are associated with quasigeostrophic dynamics. In contrast, the variance associated with the inertia–gravity modes is less successfully reduced on all scales. A smaller information content of observations on planetary scales with respect to the synoptic scales is discussed in relation to the large-scale tropical uncertainties that current data assimilation methodologies do not address successfully. In addition, it is shown that a smaller reduction of the large-scale uncertainties in the prior state for NWP in the tropics than in the midlatitudes is influenced by the applied radius for the covariance localization.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-15-0401.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "8",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "2927-2945",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Scale-Dependent Representation of the Information Content of Observations in the Global Ensemble Kalman Filter Data Assimilation",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/144/8/mwr-d-15-0401.1.xml",
+		"volume": "144",
+		"author": [
+			{
+				"family": "Žagar",
+				"given": "Nedjeljka"
+			},
+			{
+				"family": "Anderson",
+				"given": "Jeffrey"
+			},
+			{
+				"family": "Collins",
+				"given": "Nancy"
+			},
+			{
+				"family": "Hoar",
+				"given": "Timothy"
+			},
+			{
+				"family": "Raeder",
+				"given": "Kevin"
+			},
+			{
+				"family": "Lei",
+				"given": "Lili"
+			},
+			{
+				"family": "Tribbia",
+				"given": "Joseph"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					8,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/5XR5KEUT",
+		"type": "article-journal",
+		"abstract": "A recently developed method of climatic relevant singular vectors (CSVs) is applied to an atmospheric general circulation model (CAM4) to investigate the optimal error growth of the South Asian monsoon (SAM) seasonal prediction due to uncertainties in initial conditions of the sea surface temperature (SST). Emphasis is placed on the investigation of the optimal error growth of SAM seasonal forecast due to the SST uncertainties in the Indian and the equatorial Pacific Oceans. It is found that the uncertainties in the Indian Ocean can result in much larger error growth of SAM seasonal prediction than those in equatorial Pacific Ocean. Most of the CSV patterns over the Indian Ocean resembled a dipole-like structure with opposite signs spanning the northern and southern Indian Ocean. It is seen that the CSVs error growth rate changes significantly depending on the initial states whereas the CSVs patterns are insensitive to the initial conditions. The CSV patterns and error growth rates, calculated using CAM4, are also compared against those using coupled model CCSM4, indicating that the CSVs patterns from CAM4 are similar to those from CCSM4 coupled model while the error growth rate is lower in CAM4 than in CCSM4. Ensemble summer hindcasts, for the period from 2000 to 2009 over Indian Ocean, are constructed by the CSVs. For the purpose of comparison, ensemble forecasts constructed by the time lag ensemble (TLE) method are also conducted. It is found that the ensemble mean prediction by CSVs has a better skill than both the prediction by TLE and by the control run, in particular for predictions longer than 3 months, indicating the merit of CSV for SAM ensemble forecast.",
+		"container-title": "Climate Dynamics",
+		"DOI": "10.1007/s00382-015-2686-y",
+		"ISSN": "1432-0894",
+		"issue": "5",
+		"journalAbbreviation": "Clim Dyn",
+		"language": "en",
+		"page": "1953-1975",
+		"source": "Springer Link",
+		"title": "Optimal error growth of South Asian monsoon forecast associated with the uncertainties in the sea surface temperature",
+		"URL": "https://doi.org/10.1007/s00382-015-2686-y",
+		"volume": "46",
+		"author": [
+			{
+				"family": "Islam",
+				"given": "Siraj Ul"
+			},
+			{
+				"family": "Tang",
+				"given": "Youmin"
+			},
+			{
+				"family": "Jackson",
+				"given": "Peter L."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					3,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/RY9SSXUC",
+		"type": "article-journal",
+		"abstract": "This paper describes the second phase of an Observing System Simulation Experiment (OSSE) that utilizes the synthetic measurements from a constellation of satellites measuring atmospheric composition from geostationary (GEO) Earth orbit presented in part I of the study. Our OSSE is focused on carbon monoxide observations over North America, East Asia and Europe where most of the anthropogenic sources are located. Here we assess the impact of a potential GEO constellation on constraining northern hemisphere (NH) carbon monoxide (CO) using data assimilation. We show how cloud cover affects the GEO constellation data density with the largest cloud cover (i.e., lowest data density) occurring during Asian summer. We compare the modeled state of the atmosphere (Control Run), before CO data assimilation, with the known “true” state of the atmosphere (Nature Run) and show that our setup provides realistic atmospheric CO fields and emission budgets. Overall, the Control Run underestimates CO concentrations in the northern hemisphere, especially in areas close to CO sources. Assimilation experiments show that constraining CO close to the main anthropogenic sources significantly reduces errors in NH CO compared to the Control Run. We assess the changes in error reduction when only single satellite instruments are available as compared to the full constellation. We find large differences in how measurements for each continental scale observation system affect the hemispherical improvement in long-range transport patterns, especially due to seasonal cloud cover. A GEO constellation will provide the most efficient constraint on NH CO during winter when CO lifetime is longer and increments from data assimilation associated with source regions are advected further around the globe.",
+		"container-title": "Atmospheric Environment",
+		"DOI": "10.1016/j.atmosenv.2016.06.001",
+		"ISSN": "1352-2310",
+		"journalAbbreviation": "Atmospheric Environment",
+		"page": "188-201",
+		"source": "ScienceDirect",
+		"title": "On the feasibility of monitoring carbon monoxide in the lower troposphere from a constellation of northern hemisphere geostationary satellites: Global scale assimilation experiments (Part II)",
+		"title-short": "On the feasibility of monitoring carbon monoxide in the lower troposphere from a constellation of northern hemisphere geostationary satellites",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1352231016304198",
+		"volume": "140",
+		"author": [
+			{
+				"family": "Barré",
+				"given": "Jérôme"
+			},
+			{
+				"family": "Edwards",
+				"given": "David"
+			},
+			{
+				"family": "Worden",
+				"given": "Helen"
+			},
+			{
+				"family": "Arellano",
+				"given": "Avelino"
+			},
+			{
+				"family": "Gaubert",
+				"given": "Benjamin"
+			},
+			{
+				"family": "Da Silva",
+				"given": "Arlindo"
+			},
+			{
+				"family": "Lahoz",
+				"given": "William"
+			},
+			{
+				"family": "Anderson",
+				"given": "Jeffrey"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/VZCQCRUK",
+		"type": "article-journal",
+		"abstract": "As part of NOAA’s “Warn-On-Forecast” initiative, a convective-scale data assimilation and prediction system was developed using the WRF-ARW model and ARPS 3DVAR data assimilation technique. The system was then evaluated using retrospective short-range ensemble analyses and probabilistic forecasts of the tornadic supercell outbreak event that occurred on 24 May 2011 in Oklahoma, USA. A 36-member multi-physics ensemble system provided the initial and boundary conditions for a 3-km convective-scale ensemble system. Radial velocity and reflectivity observations from four WSR-88Ds were assimilated into the ensemble using the ARPS 3DVAR technique. Five data assimilation and forecast experiments were conducted to evaluate the sensitivity of the system to data assimilation frequencies, in-cloud temperature adjustment schemes, and fixed- and mixed-microphysics ensembles. The results indicated that the experiment with 5-min assimilation frequency quickly built up the storm and produced a more accurate analysis compared with the 10-min assimilation frequency experiment. The predicted vertical vorticity from the moist-adiabatic in-cloud temperature adjustment scheme was larger in magnitude than that from the latent heat scheme. Cycled data assimilation yielded good forecasts, where the ensemble probability of high vertical vorticity matched reasonably well with the observed tornado damage path. Overall, the results of the study suggest that the 3DVAR analysis and forecast system can provide reasonable forecasts of tornadic supercell storms.",
+		"container-title": "Advances in Atmospheric Sciences",
+		"DOI": "10.1007/s00376-015-5072-0",
+		"ISSN": "1861-9533",
+		"issue": "5",
+		"journalAbbreviation": "Adv. Atmos. Sci.",
+		"language": "en",
+		"page": "544-558",
+		"source": "Springer Link",
+		"title": "Analyses and forecasts of a tornadic supercell outbreak using a 3DVAR system ensemble",
+		"URL": "https://doi.org/10.1007/s00376-015-5072-0",
+		"volume": "33",
+		"author": [
+			{
+				"family": "Zhuang",
+				"given": "Zhaorong"
+			},
+			{
+				"family": "Yussouf",
+				"given": "Nusrat"
+			},
+			{
+				"family": "Gao",
+				"given": "Jidong"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					5,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/X8V4TQ43",
+		"type": "article-journal",
+		"abstract": "Abstract Probabilistic forecasts, which are usually initialized by an ensemble Kalman filter (EnKF), are known to be better than deterministic (or one member) forecasts for the El Niño–Southern Oscillation (ENSO) phenomenon. Because of sampling errors caused by a finite ensemble and the errors related to model biases associated with the physical parameterizations, dynamic core, model resolution, and so on, a state-of-the-art inflation method is commonly used in the standard EnKF to increase the prior variance so as to avoid filter divergence. However, the optimal inflation factor is almost prohibitive in reality because of vast computational cost. An adaptive EnKF and multigrid analysis hybrid approach without inflation is presented to compensate for the abovementioned limitations of the standard EnKF. In this study, the adaptive approach is applied to an intermediate coupled model for ENSO prediction. Gridded observations of daily-mean sea surface temperature (SST) anomalies from the Advanced Very High Resolution Radiometer (AVHRR) during January 1982–December 2012 are assimilated into the model to initialize a 2-yr ENSO hindcast. Results show that compared to the standard EnKF that uses multiplicative variance inflation, the adaptive method can reduce analysis errors by 63% for both the daily SST anomaly and the Niño-1+2 SST anomaly. The prediction skill of Niño-1+2 SST anomaly is consistently enhanced, especially for phase forecast. For SST anomaly forecasting, the advantage of the adaptive method mainly occurs in the eastern equatorial Pacific and the northern boundary of the intermediate coupled model.",
+		"container-title": "Journal of Climate",
+		"DOI": "10.1175/JCLI-D-16-0062.1",
+		"ISSN": "0894-8755, 1520-0442",
+		"issue": "20",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Journal of Climate",
+		"page": "7365-7381",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Improving EnKF-Based Initialization for ENSO Prediction Using a Hybrid Adaptive Method",
+		"URL": "https://journals.ametsoc.org/view/journals/clim/29/20/jcli-d-16-0062.1.xml",
+		"volume": "29",
+		"author": [
+			{
+				"family": "Wu",
+				"given": "Xinrong"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/GLTML9GY",
+		"type": "article-journal",
+		"abstract": "The Western Mediterranean coastlands are persistently affected by severe phenomena related to maritime convective systems. Areas with low density of observations around highly populated regions pose serious forecasting challenges due to the risk of misrepresenting crucial structures. This forecast problem is exemplified by the squall line that affected Mallorca (Spain) on 4th October 2007. Ensemble Kalman Filter (EnKF) assimilation algorithms exploit the statistical information conveyed by ensembles and are specially suited for regions with poor knowledge about climatological error statistics and covariances. We investigate the potential for predictability improvement from the assimilation of standard observations in the squall line event. Ensemble forecasts are assessed in terms of probabilistic products which clearly bring out the differences between assimilation and control experiments. Results show the large improvements rendered by the EnKF system in terms of severe weather threat. The attribution of these improvements is discussed in terms of the environmental ingredients linked to squall line formation. Experiments reveal that forecast improvements are fully attributable to the ability of EnKF to accurately represent the convergent flow over the Alboran Sea responsible for the thunderstorm initiation. Additional sensitivity experiments are performed to confirm the hypothesised primary role of the terrestrial observations in the accurate representation of the low-level convergent flow. These experiments confirm the ability of the sequential assimilation system in conveying crucial observational information from terrestrial to marine areas, and thus bestowing the EnKF a central role in future upgrades of high impact weather prediction systems in the Western Mediterranean region.",
+		"container-title": "Atmospheric Research",
+		"DOI": "10.1016/j.atmosres.2016.04.011",
+		"ISSN": "0169-8095",
+		"journalAbbreviation": "Atmospheric Research",
+		"page": "426-444",
+		"source": "ScienceDirect",
+		"title": "Potential of sequential EnKF for the short-range prediction of a maritime severe weather event",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S0169809516301004",
+		"volume": "178-179",
+		"author": [
+			{
+				"family": "Carrió",
+				"given": "D. S."
+			},
+			{
+				"family": "Homar",
+				"given": "V."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/LUTSAHLA",
+		"type": "article-journal",
+		"abstract": "Abstract Accurate predictions in numerical weather models depend on the ability to accurately represent physical processes across a wide range of scales. This paper evaluates the utility of model time tendencies, averaged over many forecasts at a given lead time, to diagnose systematic forecast biases in the Advanced Research version of the Weather Research and Forecasting (WRF) Model during the 2010 North Atlantic hurricane season using continuously cycled ensemble data assimilation (DA). Erroneously strong low-level heating originates from the planetary boundary layer parameterization as a consequence of using fixed sea surface temperatures, impacting the upward surface sensible heat fluxes. Warm temperature bias is observed with a magnitude 0.5 K in a deep tropospheric layer centered 700 hPa, originating primarily from the Kain–Fritsch convective parameterization. This study is the first to diagnose systematic forecast bias in a limited-area mesoscale model using its forecast tendencies. Unlike global models where relatively fewer time steps typically encompass a DA cycling period, averaging all short-term forecast tendencies can require potentially large data. It is shown that 30-min averaging intervals can sufficiently represent the systematic model bias in this modeling configuration when initializing forecasts from an ensemble member that is generated using a DA system with an identical model configuration. However, the number of time steps before model error begins to dominate initial condition (IC) errors may vary between modeling configurations. Model and IC error are indistinguishable in short-term forecasts when initialized from the ensemble mean, a global analysis from a different model, and an ensemble member using a different parameterization.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-15-0120.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "2",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "759-779",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Diagnosing Model Errors from Time-Averaged Tendencies in the Weather Research and Forecasting (WRF) Model",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/144/2/mwr-d-15-0120.1.xml",
+		"volume": "144",
+		"author": [
+			{
+				"family": "Cavallo",
+				"given": "Steven M."
+			},
+			{
+				"family": "Berner",
+				"given": "Judith"
+			},
+			{
+				"family": "Snyder",
+				"given": "Chris"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					2,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/44U9BKT5",
+		"type": "article-journal",
+		"abstract": "The snow simulations from the recently developed multivariate land snow data assimilation system (SNODAS) for the Northern Hemisphere are assessed with regard to uncertainties in atmospheric forcing, model structure, data assimilation technique, and satellite remote sensing product. The SNODAS consists of the Data Assimilation Research Testbed (DART) and the Community Land Model version 4 (CLM4). A series of experiments are conducted to estimate each of the above uncertainty sources. The experiments include several open-loop model cases and data assimilation cases that assimilate the snow cover fraction (SCF) data from the Moderate Resolution Imaging Spectroradiometer (MODIS) and the terrestrial water storage (TWS) from the Gravity Recovery and Climate Experiment (GRACE). The atmospheric forcing uncertainty in terms of precipitation and radiation is found to be the largest among the various uncertainty sources examined, especially over the Tibetan Plateau (TP) and most of the mid- and high-latitudes. Model structure and choice of data assimilation technique are also two big sources of uncertainty in SNODAS. The uncertainty of model structure is represented by two different parameterizations of SCF. The density-based SCF scheme (as used in CLM4) generally results in better snow simulations than does the stochastic SCF scheme (as in CLM4.5) within the data assimilation framework. The choice of TWS products retrieved from GRACE has relatively the least impact on the snow data assimilation.",
+		"container-title": "Journal of Geophysical Research: Atmospheres",
+		"DOI": "10.1002/2015JD024248",
+		"ISSN": "2169-8996",
+		"issue": "14",
+		"language": "en",
+		"license": "©2016. American Geophysical Union. All Rights Reserved.",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/2015JD024248",
+		"page": "8254-8268",
+		"source": "Wiley Online Library",
+		"title": "Estimating uncertainties in the newly developed multi-source land snow data assimilation system",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/2015JD024248",
+		"volume": "121",
+		"author": [
+			{
+				"family": "Zhang",
+				"given": "Yong-Fei"
+			},
+			{
+				"family": "Yang",
+				"given": "Zong-Liang"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/T9J4GSKR",
+		"type": "article-journal",
+		"abstract": "A regional-scale Observing System Simulation Experiment was used to examine the impact of water vapor (WV) sensitive infrared brightness temperature observations on the analysis and forecast accuracy during a high impact weather event across the central U.S. Ensemble data assimilation experiments were performed using the ensemble Kalman filter algorithm in the Data Assimilation Research Testbed system. Vertical error profiles at the end of the assimilation period showed that the wind and temperature fields were most accurate when observations sensitive to WV in the upper troposphere were assimilated; however, the largest improvements in the cloud and moisture analyses occurred after assimilating observations sensitive to WV in the lower and middle troposphere. The more accurate analyses at the end of these cases lead to improved short-range precipitation forecasts compared to the Control case in which only conventional observations were assimilated. Equitable threat scores were consistently higher for all precipitation thresholds during the WV band forecasts. These results demonstrate that the ability of WV-sensitive infrared brightness temperatures to improve not only the 3D moisture distribution, but also the temperature, cloud, and wind fields, enhances their utility within a data assimilation system.",
+		"container-title": "Journal of Geophysical Research: Atmospheres",
+		"DOI": "10.1029/2012JD017568",
+		"ISSN": "2156-2202",
+		"issue": "D19",
+		"language": "en",
+		"license": "This paper is not subject to U.S. copyright. Published in 2012 by the American Geophysical Union",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1029/2012JD017568",
+		"source": "Wiley Online Library",
+		"title": "Assimilation of water vapor sensitive infrared brightness temperature observations during a high impact weather event",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1029/2012JD017568",
+		"volume": "117",
+		"author": [
+			{
+				"family": "Otkin",
+				"given": "Jason A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/T3P4AVQN",
+		"type": "article-journal",
+		"abstract": "Abstract In 2011, the National Oceanic and Atmospheric Administration (NOAA) began a cooperative initiative with the academic community to help address a vexing issue that has long been known as a disconnection between the operational and research realms for weather forecasting and data assimilation. The issue is the gap, more exotically referred to as the “valley of death,” between efforts within the broader research community and NOAA’s activities, which are heavily driven by operational constraints. With the stated goals of leveraging research community efforts to benefit NOAA’s mission and offering a path to operations for the latest research activities that support the NOAA mission, satellite data assimilation in particular, this initiative aims to enhance the linkage between NOAA’s operational systems and the research efforts. A critical component is the establishment of an efficient operations-to-research (O2R) environment on the Supercomputer for Satellite Simulations and Data Assimilation Studies (S4). This O2R environment is critical for successful research-to-operations (R2O) transitions because it allows rigorous tracking, implementation, and merging of any changes necessary (to operational software codes, scripts, libraries, etc.) to achieve the scientific enhancement. So far, the S4 O2R environment, with close to 4,700 computing cores (60 TFLOPs) and 1,700-TB disk storage capacity, has been a great success and consequently was recently expanded to significantly increase its computing capacity. The objective of this article is to highlight some of the major achievements and benefits of this O2R approach and some lessons learned, with the ultimate goal of inspiring other O2R/R2O initiatives in other areas and for other applications.",
+		"container-title": "Bulletin of the American Meteorological Society",
+		"DOI": "10.1175/BAMS-D-14-00188.1",
+		"ISSN": "0003-0007, 1520-0477",
+		"issue": "12",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Bulletin of the American Meteorological Society",
+		"page": "2359-2378",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "S4: An O2R/R2O Infrastructure for Optimizing Satellite Data Utilization in NOAA Numerical Modeling Systems: A Step Toward Bridging the Gap between Research and Operations",
+		"title-short": "S4",
+		"URL": "https://journals.ametsoc.org/view/journals/bams/97/12/bams-d-14-00188.1.xml",
+		"volume": "97",
+		"author": [
+			{
+				"family": "Boukabara",
+				"given": "Sid A."
+			},
+			{
+				"family": "Zhu",
+				"given": "Tong"
+			},
+			{
+				"family": "Tolman",
+				"given": "Hendrik L."
+			},
+			{
+				"family": "Lord",
+				"given": "Steve"
+			},
+			{
+				"family": "Goodman",
+				"given": "Steven"
+			},
+			{
+				"family": "Atlas",
+				"given": "Robert"
+			},
+			{
+				"family": "Goldberg",
+				"given": "Mitch"
+			},
+			{
+				"family": "Auligne",
+				"given": "Thomas"
+			},
+			{
+				"family": "Pierce",
+				"given": "Bradley"
+			},
+			{
+				"family": "Cucurull",
+				"given": "Lidia"
+			},
+			{
+				"family": "Zupanski",
+				"given": "Milija"
+			},
+			{
+				"family": "Zhang",
+				"given": "Man"
+			},
+			{
+				"family": "Moradi",
+				"given": "Isaac"
+			},
+			{
+				"family": "Otkin",
+				"given": "Jason"
+			},
+			{
+				"family": "Santek",
+				"given": "David"
+			},
+			{
+				"family": "Hoover",
+				"given": "Brett"
+			},
+			{
+				"family": "Pu",
+				"given": "Zhaoxia"
+			},
+			{
+				"family": "Zhan",
+				"given": "Xiwu"
+			},
+			{
+				"family": "Hain",
+				"given": "Christopher"
+			},
+			{
+				"family": "Kalnay",
+				"given": "Eugenia"
+			},
+			{
+				"family": "Hotta",
+				"given": "Daisuke"
+			},
+			{
+				"family": "Nolin",
+				"given": "Scott"
+			},
+			{
+				"family": "Bayler",
+				"given": "Eric"
+			},
+			{
+				"family": "Mehra",
+				"given": "Avichal"
+			},
+			{
+				"family": "Casey",
+				"given": "Sean P. F."
+			},
+			{
+				"family": "Lindsey",
+				"given": "Daniel"
+			},
+			{
+				"family": "Grasso",
+				"given": "Louie"
+			},
+			{
+				"family": "Kumar",
+				"given": "V. Krishna"
+			},
+			{
+				"family": "Powell",
+				"given": "Alfred"
+			},
+			{
+				"family": "Xu",
+				"given": "Jianjun"
+			},
+			{
+				"family": "Greenwald",
+				"given": "Thomas"
+			},
+			{
+				"family": "Zajic",
+				"given": "Joe"
+			},
+			{
+				"family": "Li",
+				"given": "Jun"
+			},
+			{
+				"family": "Li",
+				"given": "Jinliong"
+			},
+			{
+				"family": "Li",
+				"given": "Bin"
+			},
+			{
+				"family": "Liu",
+				"given": "Jicheng"
+			},
+			{
+				"family": "Fang",
+				"given": "Li"
+			},
+			{
+				"family": "Wang",
+				"given": "Pei"
+			},
+			{
+				"family": "Chen",
+				"given": "Tse-Chun"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					12,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/PJGUB6I7",
+		"type": "article-journal",
+		"abstract": "Abstract This study examines the impact of assimilating preconvective radiosonde observations obtained by mobile sounding systems on short-term forecasts of convection. Ensemble data assimilation is performed on a mesoscale (15 km) grid and the resulting analyses are downscaled to produce forecasts on a convection-permitting grid (3 km). The ensembles of forecasts are evaluated through their depiction of radar reflectivity compared to observed radar reflectivity. Examination of fractions skill scores over eight cases shows that, for four of the cases, assimilation of radiosonde observations nearby to subsequent convection has a positive impact on the initiation and early evolution during the first 3–4 h of the forecasts, even for the smallest resolvable scales of the 3-km grid. For the four cases in which positive impacts near the smallest resolvable scales of the grid are not seen, analysis of the changes to the preconvective environment suggests that suboptimal locations of the soundings compared to the location of convective initiation are to blame. The aggregate positive impacts on forecasts of convection is more clearly seen when spatial scales larger than individual thunderstorms are examined.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-16-0091.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "11",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "4301-4325",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Impact of Assimilating Preconvective Upsonde Observations on Short-Term Forecasts of Convection Observed during MPEX",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/144/11/mwr-d-16-0091.1.xml",
+		"volume": "144",
+		"author": [
+			{
+				"family": "Coniglio",
+				"given": "Michael C."
+			},
+			{
+				"family": "Hitchcock",
+				"given": "Stacey M."
+			},
+			{
+				"family": "Knopfmeier",
+				"given": "Kent H."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					11,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/S4FFFNS4",
+		"type": "article-journal",
+		"abstract": "Abstract Northwestern Mexico experiences large variations in water vapor on seasonal time scales in association with the North American monsoon, as well as during the monsoon associated with upper-tropospheric troughs, mesoscale convective systems, tropical easterly waves, and tropical cyclones. Together these events provide more than half of the annual rainfall to the region. A sufficient density of meteorological observations is required to properly observe, understand, and forecast the important processes contributing to the development of organized convection over northwestern Mexico. The stability of observations over long time periods is also of interest to monitor seasonal and longer-time-scale variability in the water cycle. For more than a decade, the U.S. Global Positioning System (GPS) has been used to obtain tropospheric precipitable water vapor (PWV) for applications in the atmospheric sciences. There is particular interest in establishing these systems where conventional operational meteorological networks are not possible due to the lack of financial or human resources to support the network. Here, we provide an overview of the North American Monsoon GPS Transect Experiment 2013 in northwestern Mexico for the study of mesoscale processes and the impact of PWV observations on high-resolution model forecasts of organized convective events during the 2013 monsoon. Some highlights are presented, as well as a look forward at GPS networks with surface meteorology (GPS-Met) planned for the region that will be capable of capturing a wider range of water vapor variability in both space and time across Mexico and into the southwestern United States.",
+		"container-title": "Bulletin of the American Meteorological Society",
+		"DOI": "10.1175/BAMS-D-14-00250.1",
+		"ISSN": "0003-0007, 1520-0477",
+		"issue": "11",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Bulletin of the American Meteorological Society",
+		"page": "2103-2115",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "The North American Monsoon GPS Transect Experiment 2013",
+		"URL": "https://journals.ametsoc.org/view/journals/bams/97/11/bams-d-14-00250.1.xml",
+		"volume": "97",
+		"author": [
+			{
+				"family": "Serra",
+				"given": "Yolande L."
+			},
+			{
+				"family": "Adams",
+				"given": "David K."
+			},
+			{
+				"family": "Minjarez-Sosa",
+				"given": "Carlos"
+			},
+			{
+				"family": "Moker",
+				"given": "James M."
+			},
+			{
+				"family": "Arellano",
+				"given": "Avelino F."
+			},
+			{
+				"family": "Castro",
+				"given": "Christopher L."
+			},
+			{
+				"family": "Quintanar",
+				"given": "Arturo I."
+			},
+			{
+				"family": "Alatorre",
+				"given": "Luis"
+			},
+			{
+				"family": "Granados",
+				"given": "Alfredo"
+			},
+			{
+				"family": "Vazquez",
+				"given": "G. Esteban"
+			},
+			{
+				"family": "Holub",
+				"given": "Kirk"
+			},
+			{
+				"family": "DeMets",
+				"given": "C."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					11,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/AW5SIN5K",
+		"type": "article-journal",
+		"abstract": "Abstract Over the central Great Plains, mid- to upper-tropospheric weather disturbances often modulate severe storm development. These disturbances frequently pass over the Intermountain West region of the United States during the early morning hours preceding severe weather events. This region has fewer in situ observations of the atmospheric state compared with most other areas of the United States, contributing toward greater uncertainty in forecast initial conditions. Assimilation of supplemental observations is hypothesized to reduce initial condition uncertainty and improve forecasts of high-impact weather. During the spring of 2013, the Mesoscale Predictability Experiment (MPEX) leveraged ensemble-based targeting methods to key in on regions where enhanced observations might reduce mesoscale forecast uncertainty. Observations were obtained with dropsondes released from the NSF/NCAR Gulfstream-V aircraft during the early morning hours preceding 15 severe weather events over areas upstream from anticipated convection. Retrospective data-denial experiments are conducted to evaluate the value of dropsonde observations in improving convection-permitting ensemble forecasts. Results show considerable variation in forecast performance from assimilating dropsonde observations, with a modest but statistically significant improvement, akin to prior targeted observation studies that focused on synoptic-scale prediction. The change in forecast skill with dropsonde information was not sensitive to the skill of the control forecast. Events with large positive impact sampled both the disturbance and adjacent flow, akin to results from past synoptic-scale targeting studies, suggesting that sampling both the disturbance and adjacent flow is necessary regardless of the horizontal scale of the feature of interest.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-15-0407.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "10",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "3799-3823",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Impact of Assimilating Dropsonde Observations from MPEX on Ensemble Forecasts of Severe Weather Events",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/144/10/mwr-d-15-0407.1.xml",
+		"volume": "144",
+		"author": [
+			{
+				"family": "Romine",
+				"given": "Glen S."
+			},
+			{
+				"family": "Schwartz",
+				"given": "Craig S."
+			},
+			{
+				"family": "Torn",
+				"given": "Ryan D."
+			},
+			{
+				"family": "Weisman",
+				"given": "Morris L."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/S4MFLDE4",
+		"type": "article-journal",
+		"abstract": "The ionospheric plasma disturbances during a severe storm can affect human activities and systems, such as navigation and HF communication systems. Therefore, the forecast of ionospheric electron density is becoming an important topic recently. This study is conducted with the ionospheric assimilation model by assimilating the total electron content observations into the thermosphere-ionosphere coupling model with different high-latitude ionospheric convection models, Heelis and Weimer, and further to forecast the variations of ionospheric electron density during the 2015 St. Patrick's Day geomagnetic storm. The forecast capabilities of these two assimilation models are evaluated by the root-mean-square error values in different regions to discuss its latitudinal effects. Results show the better forecast in the electron density at the low-latitude region during the storm main phase and the recovery phase. The well reproduced eastward electric field at the low-latitude region by the assimilation model reveals that the electric fields may be an important factor to have the contributions on the accuracy of ionospheric forecast.",
+		"container-title": "Journal of Geophysical Research: Space Physics",
+		"DOI": "10.1002/2016JA023346",
+		"ISSN": "2169-9402",
+		"issue": "11",
+		"language": "en",
+		"license": "©2016. American Geophysical Union. All Rights Reserved.",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/2016JA023346",
+		"page": "11,549-11,559",
+		"source": "Wiley Online Library",
+		"title": "Ionosphere data assimilation modeling of 2015 St. Patrick's Day geomagnetic storm",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/2016JA023346",
+		"volume": "121",
+		"author": [
+			{
+				"family": "Chen",
+				"given": "C. H."
+			},
+			{
+				"family": "Lin",
+				"given": "C. H."
+			},
+			{
+				"family": "Matsuo",
+				"given": "T."
+			},
+			{
+				"family": "Chen",
+				"given": "W. H."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/QQIWHRTJ",
+		"type": "article-journal",
+		"abstract": "Abstract Ensemble Kalman filters are widely used for data assimilation in large geophysical models. Good results with affordable ensemble sizes require enhancements to the basic algorithms to deal with insufficient ensemble variance and spurious ensemble correlations between observations and state variables. These challenges are often dealt with by using inflation and localization algorithms. A new method for understanding and reducing some ensemble filter errors is introduced and tested. The method assumes that sampling error due to small ensemble size is the primary source of error. Sampling error in the ensemble correlations between observations and state variables is reduced by estimating the distribution of correlations as part of the ensemble filter algorithm. This correlation error reduction (CER) algorithm can produce high-quality ensemble assimilations in low-order models without using any a priori localization like a specified localization function. The method is also applied in an observing system simulation experiment with a very coarse resolution dry atmospheric general circulation model. This demonstrates that the algorithm provides insight into the need for localization in large geophysical applications, suggesting that sampling error may be a primary cause in some cases.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-15-0052.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "3",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "913-925",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Reducing Correlation Sampling Error in Ensemble Kalman Filter Data Assimilation",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/144/3/mwr-d-15-0052.1.xml",
+		"volume": "144",
+		"author": [
+			{
+				"family": "Anderson",
+				"given": "Jeffrey L."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					3,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/RJGCFS33",
+		"type": "article-journal",
+		"abstract": "Abstract This paper addresses continental-scale snow estimates in North America using a recently developed snow radiance assimilation (RA) system. A series of RA experiments with the ensemble adjustment Kalman filter are conducted by assimilating the Advanced Microwave Scanning Radiometer for Earth Observing System (AMSR-E) brightness temperature TB at 18.7- and 36.5-GHz vertical polarization channels. The overall RA performance in estimating snow depth for North America is improved by simultaneously updating the Community Land Model, version 4 (CLM4), snow/soil states and radiative transfer model (RTM) parameters involved in predicting TB based on their correlations with the prior TB (i.e., rule-based RA), although degradations are also observed. The RA system exhibits a more mixed performance for snow cover fraction estimates. Compared to the open-loop run (0.171 m RMSE), the overall snow depth estimates are improved by 1.6% (0.168 m RMSE) in the rule-based RA whereas the default RA (without a rule) results in a degradation of 3.6% (0.177 m RMSE). Significant improvement of the snow depth estimates in the rule-based RA is observed for tundra snow class (11.5%, p < 0.05) and bare soil land-cover type (13.5%, p < 0.05). However, the overall improvement is not significant (p = 0.135) because snow estimates are degraded or marginally improved for other snow classes and land covers, especially the taiga snow class and forest land cover (7.1% and 7.3% degradations, respectively). The current RA system needs to be further refined to enhance snow estimates for various snow types and forested regions.",
+		"container-title": "Journal of Hydrometeorology",
+		"DOI": "10.1175/JHM-D-16-0028.1",
+		"ISSN": "1525-7541, 1525-755X",
+		"issue": "11",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Journal of Hydrometeorology",
+		"page": "2853-2874",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Estimating Snow Water Storage in North America Using CLM4, DART, and Snow Radiance Data Assimilation",
+		"URL": "https://journals.ametsoc.org/view/journals/hydr/17/11/jhm-d-16-0028_1.xml",
+		"volume": "17",
+		"author": [
+			{
+				"family": "Kwon",
+				"given": "Yonghwan"
+			},
+			{
+				"family": "Yang",
+				"given": "Zong-Liang"
+			},
+			{
+				"family": "Zhao",
+				"given": "Long"
+			},
+			{
+				"family": "Hoar",
+				"given": "Timothy J."
+			},
+			{
+				"family": "Toure",
+				"given": "Ally M."
+			},
+			{
+				"family": "Rodell",
+				"given": "Matthew"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					11,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/2I9WMYBE",
+		"type": "article-journal",
+		"abstract": "Abstract Two spatial verification methods are applied to ensemble forecasts of low-level rotation in supercells: a four-dimensional, object-based matching algorithm and the displacement and amplitude score (DAS) based on optical flow. Ensemble forecasts of low-level rotation produced using the National Severe Storms Laboratory (NSSL) Experimental Warn-on-Forecast System are verified against WSR-88D single-Doppler azimuthal wind shear values interpolated to the model grid. Verification techniques are demonstrated using four 60-min forecasts issued at 15-min intervals in the hour preceding development of the 20 May 2013 Moore, Oklahoma, tornado and compared to results from two additional forecasts of tornadic supercells occurring during the springs of 2013 and 2014. The object-based verification technique and displacement component of DAS are found to reproduce subjectively determined forecast characteristics in successive forecasts for the 20 May 2013 event, as well as to discriminate in subjective forecast quality between different events. Ensemble-mean, object-based measures quantify spatial and temporal displacement, as well as storm motion biases in predicted low-level rotation in a manner consistent with subjective interpretation. Neither method produces useful measures of the intensity of low-level rotation, owing to deficiencies in the verification dataset and forecast resolution.",
+		"container-title": "Weather and Forecasting",
+		"DOI": "10.1175/WAF-D-15-0129.1",
+		"ISSN": "1520-0434, 0882-8156",
+		"issue": "3",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Weather and Forecasting",
+		"page": "713-735",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Application of Two Spatial Verification Methods to Ensemble Forecasts of Low-Level Rotation",
+		"URL": "https://journals.ametsoc.org/view/journals/wefo/31/3/waf-d-15-0129_1.xml",
+		"volume": "31",
+		"author": [
+			{
+				"family": "Skinner",
+				"given": "Patrick S."
+			},
+			{
+				"family": "Wicker",
+				"given": "Louis J."
+			},
+			{
+				"family": "Wheatley",
+				"given": "Dustan M."
+			},
+			{
+				"family": "Knopfmeier",
+				"given": "Kent H."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					6,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/YNUMK3CN",
+		"type": "article-journal",
+		"abstract": "Abstract A continuous-update-cycle storm-scale ensemble data assimilation (DA) and prediction system using the ARW model and DART software is used to generate retrospective 0–6-h ensemble forecasts of the 31 May 2013 tornado and flash flood event over central Oklahoma, with a focus on the prediction of heavy rainfall. Results indicate that the model-predicted probabilities of strong low-level mesocyclones correspond well with the locations of observed mesocyclones and with the observed damage track. The ensemble-mean quantitative precipitation forecast (QPF) from the radar DA experiments match NCEP’s stage IV analyses reasonably well in terms of location and amount of rainfall, particularly during the 0–3-h forecast period. In contrast, significant displacement errors and lower rainfall totals are evident in a control experiment that withholds radar data during the DA. The ensemble-derived probabilistic QPF (PQPF) from the radar DA experiment is more skillful than the PQPF from the no_radar experiment, based on visual inspection and probabilistic verification metrics. A novel object-based storm-tracking algorithm provides additional insight, suggesting that explicit assimilation and 1–2-h prediction of the dominant supercell is remarkably skillful in the radar experiment. The skill in both experiments is substantially higher during the 0–3-h forecast period than in the 3–6-h period. Furthermore, the difference in skill between the two forecasts decreases sharply during the latter period, indicating that the impact of radar DA is greatest during early forecast hours. Overall, the results demonstrate the potential for a frequently updated, high-resolution ensemble system to extend probabilistic low-level mesocyclone and flash flood forecast lead times and improve accuracy of convective precipitation nowcasting.",
+		"container-title": "Weather and Forecasting",
+		"DOI": "10.1175/WAF-D-15-0160.1",
+		"ISSN": "1520-0434, 0882-8156",
+		"issue": "3",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Weather and Forecasting",
+		"page": "957-983",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Short-Term Probabilistic Forecasts of the 31 May 2013 Oklahoma Tornado and Flash Flood Event Using a Continuous-Update-Cycle Storm-Scale Ensemble System",
+		"URL": "https://journals.ametsoc.org/view/journals/wefo/31/3/waf-d-15-0160_1.xml",
+		"volume": "31",
+		"author": [
+			{
+				"family": "Yussouf",
+				"given": "Nusrat"
+			},
+			{
+				"family": "Kain",
+				"given": "John S."
+			},
+			{
+				"family": "Clark",
+				"given": "Adam J."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					6,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/CVYKCQT8",
+		"type": "article-journal",
+		"abstract": "The main purpose of this paper is to investigate the effects of rapid assimilation-forecast cycling on the performance of ionospheric data assimilation during geomagnetic storm conditions. An ensemble Kalman filter software developed by the National Center for Atmospheric Research (NCAR), called Data Assimilation Research Testbed, is applied to assimilate ground-based GPS total electron content (TEC) observations into a theoretical numerical model of the thermosphere and ionosphere (NCAR thermosphere-ionosphere-electrodynamics general circulation model) during the 26 September 2011 geomagnetic storm period. Effects of various assimilation-forecast cycle lengths: 60, 30, and 10 min on the ionospheric forecast are examined by using the global root-mean-squared observation-minus-forecast (OmF) TEC residuals. Substantial reduction in the global OmF for the 10 min assimilation-forecast cycling suggests that a rapid cycling ionospheric data assimilation system can greatly improve the quality of the model forecast during geomagnetic storm conditions. Furthermore, updating the thermospheric state variables in the coupled thermosphere-ionosphere forecast model in the assimilation step is an important factor in improving the trajectory of model forecasting. The shorter assimilation-forecast cycling (10 min in this paper) helps to restrain unrealistic model error growth during the forecast step due to the imbalance among model state variables resulting from an inadequate state update, which in turn leads to a greater forecast accuracy.",
+		"container-title": "Journal of Geophysical Research: Space Physics",
+		"DOI": "10.1002/2015JA021787",
+		"ISSN": "2169-9402",
+		"issue": "6",
+		"language": "en",
+		"license": "©2016. American Geophysical Union. All Rights Reserved.",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/2015JA021787",
+		"page": "5708-5722",
+		"source": "Wiley Online Library",
+		"title": "Ionospheric data assimilation with thermosphere-ionosphere-electrodynamics general circulation model and GPS-TEC during geomagnetic storm conditions",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/2015JA021787",
+		"volume": "121",
+		"author": [
+			{
+				"family": "Chen",
+				"given": "C. H."
+			},
+			{
+				"family": "Lin",
+				"given": "C. H."
+			},
+			{
+				"family": "Matsuo",
+				"given": "T."
+			},
+			{
+				"family": "Chen",
+				"given": "W. H."
+			},
+			{
+				"family": "Lee",
+				"given": "I. T."
+			},
+			{
+				"family": "Liu",
+				"given": "J. Y."
+			},
+			{
+				"family": "Lin",
+				"given": "J. T."
+			},
+			{
+				"family": "Hsu",
+				"given": "C. T."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/JU8A4B62",
+		"type": "article-journal",
+		"abstract": "Abstract Tropical cyclone (TC) intensity forecasts are impacted by errors in atmosphere and ocean initial conditions and the model formulation, which motivates using an ensemble approach. This study evaluates the impact of uncertainty in atmospheric and oceanic initial conditions, as well as stochastic representations of the drag Cd and enthalphy Ck exchange coefficients on ensemble Advanced Hurricane WRF (AHW) TC intensity forecasts of multiple Atlantic TCs from 2008 to 2011. Each ensemble experiment is characterized by different combinations of either deterministic or ensemble atmospheric and/or oceanic initial conditions, as well as fixed or stochastic representations of Cd or Ck. Among those experiments with a single uncertainty source, atmospheric uncertainty produces the largest standard deviation in TC intensity. While ocean uncertainty leads to continuous growth in ensemble standard deviation, the ensemble standard deviation in the experiments with Cd and Ck uncertainty levels off by 48 h. Combining atmospheric and oceanic uncertainty leads to larger intensity standard deviation than atmosphere or ocean uncertainty alone and preferentially adds variability outside of the TC core. By contrast, combining Cd or Ck uncertainty with any other source leads to negligible increases in standard deviation, which is mainly due to the lack of spatial correlation in the exchange coefficient perturbations. All of the ensemble experiments are deficient in ensemble standard deviation; however, the experiments with combinations of uncertainty sources generally have an ensemble standard deviation closer to the ensemble-mean errors.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-16-0108.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "9",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "3487-3506",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "Evaluation of Atmosphere and Ocean Initial Condition Uncertainty and Stochastic Exchange Coefficients on Ensemble Tropical Cyclone Intensity Forecasts",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/144/9/mwr-d-16-0108.1.xml",
+		"volume": "144",
+		"author": [
+			{
+				"family": "Torn",
+				"given": "Ryan D."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/3887706/items/2RH9ESTH",
+		"type": "article-journal",
+		"abstract": "Abstract This paper presents a new data assimilation approach based on the particle filter (PF) that has potential for nonlinear/non-Gaussian applications in geoscience. Particle filters provide a Monte Carlo approximation of a system’s probability density, while making no assumptions regarding the underlying error distribution. The proposed method is similar to the PF in that particles—also referred to as ensemble members—are weighted based on the likelihood of observations in order to approximate posterior probabilities of the system state. The new approach, denoted the local PF, extends the particle weights into vector quantities to reduce the influence of distant observations on the weight calculations via a localization function. While the number of particles required for standard PFs scales exponentially with the dimension of the system, the local PF provides accurate results using relatively few particles. In sensitivity experiments performed with a 40-variable dynamical system, the local PF requires only five particles to prevent filter divergence for both dense and sparse observation networks. Comparisons of the local PF and ensemble Kalman filters (EnKFs) reveal advantages of the new method in situations resembling geophysical data assimilation applications. In particular, the new filter demonstrates substantial benefits over EnKFs when observation networks consist of densely spaced measurements that relate nonlinearly to the model state—analogous to remotely sensed data used frequently in weather analyses.",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10.1175/MWR-D-15-0163.1",
+		"ISSN": "1520-0493, 0027-0644",
+		"issue": "1",
+		"language": "EN",
+		"note": "publisher: American Meteorological Society\nsection: Monthly Weather Review",
+		"page": "59-76",
+		"source": "journals-ametsoc-org.cuucar.idm.oclc.org",
+		"title": "A Localized Particle Filter for High-Dimensional Nonlinear Systems",
+		"URL": "https://journals.ametsoc.org/view/journals/mwre/144/1/mwr-d-15-0163.1.xml",
+		"volume": "144",
+		"author": [
+			{
+				"family": "Poterjoy",
+				"given": "Jonathan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					1,
+					1
+				]
+			]
+		}
 	}
 ]
