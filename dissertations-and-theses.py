@@ -4,7 +4,6 @@ import json
 from collections import OrderedDict
 
 f = open('dart-dissertations-theses.json')
-output_file = '_index.md'
 
 publications = json.load(f)
 
@@ -84,6 +83,8 @@ page_string += """
 """
 
 print(page_string)
+
+output_file = '../dart-web/content/dissertations-and-theses/_index.md'
 
 f = open(output_file, 'w')
 f.write(page_string)
