@@ -25,8 +25,8 @@ The following publication list contains known publications that use DART.
 Please contact [dart@ucar.edu](mailto:dart@ucar.edu) to add your publication
 to the list.
 
-Recent publications coauthored by NCAR staff should be freely available in the
-NSF NCAR online database known as [Opensky](https://opensky.ucar.edu/) by
+Recent publications coauthored by NSF NCAR staff should be freely available in
+the NSF NCAR online database known as [Opensky](https://opensky.ucar.edu/) by
 searching for a given publication's title.
 
 To cite DART in your publication, please use this citation updating the DART
@@ -97,16 +97,23 @@ for publication in publications:
         if title[-1] != '?' and title[-1] != '.':
             title += '.'            
 
-        journal = publication['container-title']
-
         try:
             volume = ' **' + publication['volume']+'**, '
         except:
             volume = ' '
+        
         try:
             page = publication['page']+', '
         except:
             page = ' '
+
+        try:
+            journal = publication['container-title']
+        except:
+            ValueError(title + 'Does not have a journal title.')
+
+       
+        
         try:
             doi = 'doi:' + publication['DOI']
             url = 'https://doi.org/' + doi
